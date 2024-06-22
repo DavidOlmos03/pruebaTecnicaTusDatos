@@ -1,0 +1,680 @@
+[{
+  "_id": {
+    "$oid": "6677379e8493630f465438aa"
+  },
+  "id": "1",
+  "numero_proceso": "13284202419612",
+  "fecha": "07/06/2024 19:02",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables (Arcernnr), En La Persona Del Director Ejecutivo Juan Carlos Herrrera Heredia"
+},
+{
+  "_id": {
+    "$oid": "667737b88493630f465438ab"
+  },
+  "id": "1",
+  "numero_proceso": "12282202406107",
+  "fecha": "19/03/2024 20:30",
+  "actores_ofendidos": "Fiscalia General Del Estado, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Vera Rodriguez Angel Manuel"
+},
+{
+  "_id": {
+    "$oid": "667737d18493630f465438ac"
+  },
+  "id": "1",
+  "numero_proceso": "08332202400176",
+  "fecha": "06/03/2024 16:13",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667737ed8493630f465438ad"
+  },
+  "id": "1",
+  "numero_proceso": "13284202406765",
+  "fecha": "29/02/2024 10:43",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667738058493630f465438ae"
+  },
+  "id": "1",
+  "numero_proceso": "13284202406764",
+  "fecha": "29/02/2024 10:40",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "6677381f8493630f465438af"
+  },
+  "id": "1",
+  "numero_proceso": "13284202406763",
+  "fecha": "29/02/2024 10:38",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667738398493630f465438b0"
+  },
+  "id": "1",
+  "numero_proceso": "17811202302644",
+  "fecha": "21/12/2023 13:33",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Wilches Tacuri Ligia Mercedes"
+},
+{
+  "_id": {
+    "$oid": "667738508493630f465438b1"
+  },
+  "id": "1",
+  "numero_proceso": "09802202301613",
+  "fecha": "30/11/2023 11:42",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado., Mgs. Milena Charfuelan Burbano En Calidad De Subdirectora General Del Iess, O Quien Haga Sus Veces., Lic. Diego Salgado Ribadeneira En Calidad De Director General Del Iess, O Quien Haga Sus Veces., Instituto Ecuatoriano De Seguridad Social Direccion General Guayaquil"
+},
+{
+  "_id": {
+    "$oid": "6677386b8493630f465438b2"
+  },
+  "id": "1",
+  "numero_proceso": "09332202318810",
+  "fecha": "08/11/2023 10:49",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Seguros Sucre S.a"
+},
+{
+  "_id": {
+    "$oid": "667738868493630f465438b3"
+  },
+  "id": "1",
+  "numero_proceso": "17811202301639",
+  "fecha": "17/08/2023 16:21",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Almaroselec S.a."
+},
+{
+  "_id": {
+    "$oid": "667738a18493630f465438b4"
+  },
+  "id": "1",
+  "numero_proceso": "17811202301392",
+  "fecha": "02/08/2023 15:33",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Almaroselec S.a."
+},
+{
+  "_id": {
+    "$oid": "667738a18493630f465438b5"
+  },
+  "id": "1",
+  "numero_proceso": "17811202301392",
+  "fecha": "05/07/2023 13:04",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Almaroselec S.a."
+},
+{
+  "_id": {
+    "$oid": "667738ba8493630f465438b6"
+  },
+  "id": "1",
+  "numero_proceso": "09802202300293",
+  "fecha": "09/03/2023 15:59",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado, Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables (Arcernnr)"
+},
+{
+  "_id": {
+    "$oid": "667738d48493630f465438b7"
+  },
+  "id": "1",
+  "numero_proceso": "23303202300098G",
+  "fecha": "03/02/2023 08:53",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Fiscalia General Del Estado",
+  "demandados_procesados": "Garzon Pazmiño Yolanda Brissette"
+},
+{
+  "_id": {
+    "$oid": "667738f08493630f465438b8"
+  },
+  "id": "1",
+  "numero_proceso": "13802202300007",
+  "fecha": "10/01/2023 09:01",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Procurador General Del Estado",
+  "demandados_procesados": "Gerente General Y Representante Legal De La Empresa Procitel S.a."
+},
+{
+  "_id": {
+    "$oid": "667738f08493630f465438b9"
+  },
+  "id": "1",
+  "numero_proceso": "13802202300007",
+  "fecha": "29/05/2023 09:49",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Procurador General Del Estado",
+  "demandados_procesados": "Gerente General Y Representante Legal De La Empresa Procitel S.a."
+},
+{
+  "_id": {
+    "$oid": "6677390b8493630f465438ba"
+  },
+  "id": "1",
+  "numero_proceso": "13337202300012",
+  "fecha": "09/01/2023 16:18",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Posligua Quijije Pedro Orlando"
+},
+{
+  "_id": {
+    "$oid": "667739278493630f465438bb"
+  },
+  "id": "1",
+  "numero_proceso": "13284202221340",
+  "fecha": "14/12/2022 10:28",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667739438493630f465438bc"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202139",
+  "fecha": "09/12/2022 08:38",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Sanchez Ricaurte Ricardo Vicente"
+},
+{
+  "_id": {
+    "$oid": "667739608493630f465438bd"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202138",
+  "fecha": "09/12/2022 08:26",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Rodriguez Pico Klever Giuberto"
+},
+{
+  "_id": {
+    "$oid": "6677397b8493630f465438be"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202137",
+  "fecha": "08/12/2022 16:14",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Trejos Chavez Jessica Maria"
+},
+{
+  "_id": {
+    "$oid": "667739978493630f465438bf"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202136",
+  "fecha": "08/12/2022 16:03",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Vera Rodriguez Georgina Severita"
+},
+{
+  "_id": {
+    "$oid": "667739b18493630f465438c0"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202135",
+  "fecha": "08/12/2022 15:41",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Alcivar Pico Jose Vicente"
+},
+{
+  "_id": {
+    "$oid": "667739cb8493630f465438c1"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202134",
+  "fecha": "08/12/2022 14:57",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Torres Romero Solanda Margarita"
+},
+{
+  "_id": {
+    "$oid": "667739e58493630f465438c2"
+  },
+  "id": "1",
+  "numero_proceso": "13284202219881",
+  "fecha": "23/11/2022 11:54",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Viteri Ramirez Mario Andres",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773a008493630f465438c3"
+  },
+  "id": "1",
+  "numero_proceso": "18803202200457",
+  "fecha": "02/11/2022 09:24",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Director Regional De La Procuraduría General Del Estado-loja, Ing. Victor Manuel Palacios Jimenez"
+},
+{
+  "_id": {
+    "$oid": "66773a008493630f465438c4"
+  },
+  "id": "1",
+  "numero_proceso": "18803202200457",
+  "fecha": "07/10/2022 14:19",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Director Regional De La Procuraduría General Del Estado-loja, Ing. Victor Manuel Palacios Jimenez"
+},
+{
+  "_id": {
+    "$oid": "66773a1c8493630f465438c5"
+  },
+  "id": "1",
+  "numero_proceso": "13802202200437",
+  "fecha": "15/09/2022 15:11",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado, A Través De Su Director Regional De La Procuraduría General Del Estado En Manabí, O Quien Haga Sus Veces., Cedeño Delgado Cesar Stalin"
+},
+{
+  "_id": {
+    "$oid": "66773a368493630f465438c6"
+  },
+  "id": "1",
+  "numero_proceso": "23281202203746",
+  "fecha": "03/08/2022 10:57",
+  "actores_ofendidos": "Tapia Torres Albaro Augusto, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Fiscalia General Del Estado",
+  "demandados_procesados": "Aguilar Vega Wilson Bolivar"
+},
+{
+  "_id": {
+    "$oid": "66773a518493630f465438c7"
+  },
+  "id": "1",
+  "numero_proceso": "09802202200924",
+  "fecha": "02/08/2022 09:26",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procuraduria General Del Estado.-, Cia. Seguros Sucre S.a. En Liquidacion"
+},
+{
+  "_id": {
+    "$oid": "66773a698493630f465438c8"
+  },
+  "id": "1",
+  "numero_proceso": "23281202203414G",
+  "fecha": "29/06/2022 09:47",
+  "actores_ofendidos": "Ing. Rodrigo Froilan Sola Pazmiño, Fiscalia General Del Estado, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Dace."
+},
+{
+  "_id": {
+    "$oid": "66773a838493630f465438c9"
+  },
+  "id": "1",
+  "numero_proceso": "09201202201814",
+  "fecha": "26/05/2022 09:42",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables"
+},
+{
+  "_id": {
+    "$oid": "66773a838493630f465438ca"
+  },
+  "id": "1",
+  "numero_proceso": "09201202201814",
+  "fecha": "30/12/2022 11:07",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables"
+},
+{
+  "_id": {
+    "$oid": "66773a838493630f465438cb"
+  },
+  "id": "2",
+  "numero_proceso": "09201202201814",
+  "fecha": "02/06/2022 14:30",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables"
+},
+{
+  "_id": {
+    "$oid": "66773a838493630f465438cc"
+  },
+  "id": "1",
+  "numero_proceso": "09201202201814",
+  "fecha": "05/10/2022 19:27",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables"
+},
+{
+  "_id": {
+    "$oid": "66773a9f8493630f465438cd"
+  },
+  "id": "1",
+  "numero_proceso": "13802202200194",
+  "fecha": "22/04/2022 14:46",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "A La Procuraduría General Del Estado, A Través Del Abg. Franklin Adriano Zambrano Loor, Director Regional De La Procuraduría General Del Estado En Manabí O Quien Haga Sus Veces, Compañía Constructora Electrica Y Mecanica S.a. Ceym, A Través Del Ing. Juan Antonio Zúñiga Fajardo, En Su Calidad De Gerente General Y Representante Legal, Ceym, Compañia Electrica Y Mecanica S.a."
+},
+{
+  "_id": {
+    "$oid": "66773a9f8493630f465438ce"
+  },
+  "id": "2",
+  "numero_proceso": "13802202200194",
+  "fecha": "25/08/2022 14:09",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "A La Procuraduría General Del Estado, A Través Del Abg. Franklin Adriano Zambrano Loor, Director Regional De La Procuraduría General Del Estado En Manabí O Quien Haga Sus Veces, Compañía Constructora Electrica Y Mecanica S.a. Ceym, A Través Del Ing. Juan Antonio Zúñiga Fajardo, En Su Calidad De Gerente General Y Representante Legal, Ceym, Compañia Electrica Y Mecanica S.a."
+},
+{
+  "_id": {
+    "$oid": "66773aba8493630f465438cf"
+  },
+  "id": "1",
+  "numero_proceso": "02331202200123",
+  "fecha": "11/02/2022 12:46",
+  "actores_ofendidos": "Medina Pita Franklin Oswaldo, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Naranjo Campoverde Victor Patricio"
+},
+{
+  "_id": {
+    "$oid": "66773ad48493630f465438d0"
+  },
+  "id": "1",
+  "numero_proceso": "09802202200154",
+  "fecha": "04/02/2022 10:42",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Villacres Pilco Lucio Homero"
+},
+{
+  "_id": {
+    "$oid": "66773aef8493630f465438d1"
+  },
+  "id": "1",
+  "numero_proceso": "02331202200019",
+  "fecha": "11/01/2022 15:43",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Naranjo Campoverde Victor Patricio"
+},
+{
+  "_id": {
+    "$oid": "66773b098493630f465438d2"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112783",
+  "fecha": "20/12/2021 10:22",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773b228493630f465438d3"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112782",
+  "fecha": "20/12/2021 10:18",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773b3d8493630f465438d4"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112781",
+  "fecha": "20/12/2021 10:14",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773b578493630f465438d5"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112780",
+  "fecha": "20/12/2021 10:09",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773b738493630f465438d6"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112779",
+  "fecha": "20/12/2021 10:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773b8f8493630f465438d7"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112778",
+  "fecha": "20/12/2021 09:56",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773bab8493630f465438d8"
+  },
+  "id": "1",
+  "numero_proceso": "07333202103082",
+  "fecha": "13/12/2021 14:52",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Cordova Jose Alejandro"
+},
+{
+  "_id": {
+    "$oid": "66773bc68493630f465438d9"
+  },
+  "id": "1",
+  "numero_proceso": "07333202103079",
+  "fecha": "13/12/2021 14:45",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Cabrera Feijoo Clara Luz"
+},
+{
+  "_id": {
+    "$oid": "66773bdf8493630f465438da"
+  },
+  "id": "2",
+  "numero_proceso": "07317202100918",
+  "fecha": "12/01/2022 13:11",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Luzuriaga Romero Pilar Del Rocio",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773bdf8493630f465438db"
+  },
+  "id": "1",
+  "numero_proceso": "07317202100918",
+  "fecha": "08/12/2021 12:00",
+  "actores_ofendidos": "Luzuriaga Romero Pilar Del Rocio, Ordoñez Granda Carlos Eduardo",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773bfb8493630f465438dc"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111571",
+  "fecha": "22/11/2021 11:05",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773c158493630f465438dd"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111570",
+  "fecha": "22/11/2021 11:02",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773c2f8493630f465438de"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111569",
+  "fecha": "22/11/2021 10:59",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773c4a8493630f465438df"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111568",
+  "fecha": "22/11/2021 10:56",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773c648493630f465438e0"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111566",
+  "fecha": "22/11/2021 10:52",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773c7f8493630f465438e1"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111565",
+  "fecha": "22/11/2021 10:49",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773c9b8493630f465438e2"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111564",
+  "fecha": "22/11/2021 10:34",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773cb68493630f465438e3"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111561",
+  "fecha": "22/11/2021 10:05",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773cd18493630f465438e4"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111560",
+  "fecha": "22/11/2021 09:58",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773cef8493630f465438e5"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111559",
+  "fecha": "22/11/2021 09:49",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773d0c8493630f465438e6"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111557",
+  "fecha": "22/11/2021 09:31",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773d288493630f465438e7"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111556",
+  "fecha": "22/11/2021 09:26",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773d438493630f465438e8"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111555",
+  "fecha": "22/11/2021 09:18",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773d5d8493630f465438e9"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111554",
+  "fecha": "22/11/2021 09:12",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773d778493630f465438ea"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111553",
+  "fecha": "22/11/2021 09:07",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773d938493630f465438eb"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111552",
+  "fecha": "22/11/2021 09:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773daf8493630f465438ec"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111551",
+  "fecha": "22/11/2021 08:55",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66773dc98493630f465438ed"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111550",
+  "fecha": "22/11/2021 08:42",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+}]
