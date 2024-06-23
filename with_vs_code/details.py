@@ -79,7 +79,10 @@ def recorrer_vistas(limit, driver):
     num_vista = 1
     sleep(random.uniform(3.0,5.0))
     listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
-
+    """
+        POSIBLE ERROR:  Aqui se puede estar cortando el ciclo antes de que termine de extraer los detalles de todas las vistas
+                        faltaria la ultima vista
+    """
     for i in range(limit-1):
     # sleep(random.uniform(3.0,5.0))
         listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))

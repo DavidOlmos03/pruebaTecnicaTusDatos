@@ -17,7 +17,7 @@ def identify_process(type_process, driver, codigo):
         input_user.send_keys(codigo)
 
 
-def send_process(listado_proceso):
+def send_process(listado_proceso, codigo):
     for proceso in listado_proceso:
         id_proceso = proceso.find_element('xpath','.//div[@class="id"]').text
         fecha = proceso.find_element('xpath','.//div[@class="fecha"]').text
@@ -26,6 +26,7 @@ def send_process(listado_proceso):
         
         #   Se envia la información obtenida a la base de datos
         col.insert_one({
+            'doc_persona': codigo,
             'id':id_proceso,
             'fecha': fecha,
             'numero_proceso': numero_proceso,
@@ -58,12 +59,12 @@ def count_view_process(driver):
                 break
 
 
-def obtain_all_process(limit, driver):
+def obtain_all_process(limit, driver, codigo):
     #   Obtengo el listado de procesos esperando antes 10 segundos para dar tiempo de que se carguen por completo
     listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
     
     #   Se envia la lista de procesos encontrados por pantalla a la base de datos
-    send_process(listado_procesos)
+    send_process(listado_procesos, codigo)
 
     #   Se obtiene el boton de paso
     boton_paso = driver.find_element(By.XPATH,"//button[@aria-label='Página siguiente']")
@@ -81,7 +82,7 @@ def obtain_all_process(limit, driver):
             listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
             
             #   Se envia la lista de procesos encontrados por pantalla a la base de datos
-            send_process(listado_procesos)
+            send_process(listado_procesos, codigo)
                 
             #   Espero a que se cargue la nueva página
             sleep(random.uniform(8.0,10.0))

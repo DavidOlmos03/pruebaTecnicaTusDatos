@@ -1,0 +1,2080 @@
+[{
+  "_id": {
+    "$oid": "667763afb985e12c7394e153"
+  },
+  "doc_persona": "0968599020001",
+  "id": "1",
+  "fecha": "07/06/2024",
+  "numero_proceso": "13284202419612",
+  "accion_infraccion": "MEDIDA CAUTELAR"
+},
+{
+  "_id": {
+    "$oid": "667763afb985e12c7394e154"
+  },
+  "doc_persona": "0968599020001",
+  "id": "2",
+  "fecha": "19/03/2024",
+  "numero_proceso": "12282202406107",
+  "accion_infraccion": "189 ROBO, INC. 2, NUM 1 (REFORMA 12 MAYO 2023)"
+},
+{
+  "_id": {
+    "$oid": "667763afb985e12c7394e155"
+  },
+  "doc_persona": "0968599020001",
+  "id": "3",
+  "fecha": "06/03/2024",
+  "numero_proceso": "08332202400176",
+  "accion_infraccion": "NULIDAD DE SENTENCIA"
+},
+{
+  "_id": {
+    "$oid": "667763afb985e12c7394e156"
+  },
+  "doc_persona": "0968599020001",
+  "id": "4",
+  "fecha": "29/02/2024",
+  "numero_proceso": "13284202406765",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 6"
+},
+{
+  "_id": {
+    "$oid": "667763afb985e12c7394e157"
+  },
+  "doc_persona": "0968599020001",
+  "id": "5",
+  "fecha": "29/02/2024",
+  "numero_proceso": "13284202406764",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 6"
+},
+{
+  "_id": {
+    "$oid": "667763afb985e12c7394e158"
+  },
+  "doc_persona": "0968599020001",
+  "id": "6",
+  "fecha": "29/02/2024",
+  "numero_proceso": "13284202406763",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 6"
+},
+{
+  "_id": {
+    "$oid": "667763afb985e12c7394e159"
+  },
+  "doc_persona": "0968599020001",
+  "id": "7",
+  "fecha": "21/12/2023",
+  "numero_proceso": "17811202302644",
+  "accion_infraccion": "PAGO POR CONSIGNACIÓN"
+},
+{
+  "_id": {
+    "$oid": "667763afb985e12c7394e15a"
+  },
+  "doc_persona": "0968599020001",
+  "id": "8",
+  "fecha": "30/11/2023",
+  "numero_proceso": "09802202301613",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "667763afb985e12c7394e15b"
+  },
+  "doc_persona": "0968599020001",
+  "id": "9",
+  "fecha": "08/11/2023",
+  "numero_proceso": "09332202318810",
+  "accion_infraccion": "COBRO DE DINERO"
+},
+{
+  "_id": {
+    "$oid": "667763b0b985e12c7394e15c"
+  },
+  "doc_persona": "0968599020001",
+  "id": "10",
+  "fecha": "17/08/2023",
+  "numero_proceso": "17811202301639",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "667763b5d1264f907172025c"
+  },
+  "doc_persona": "0992339411001",
+  "id": "1",
+  "fecha": "14/09/2023",
+  "numero_proceso": "09332202315769",
+  "accion_infraccion": "PAGO DE DINERO"
+},
+{
+  "_id": {
+    "$oid": "667763b6d1264f907172025d"
+  },
+  "doc_persona": "0992339411001",
+  "id": "2",
+  "fecha": "11/07/2023",
+  "numero_proceso": "09332202311766",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763b6d1264f907172025e"
+  },
+  "doc_persona": "0992339411001",
+  "id": "3",
+  "fecha": "03/08/2022",
+  "numero_proceso": "09332202211555",
+  "accion_infraccion": "FACTURA O PRIMA DE SEGUROS"
+},
+{
+  "_id": {
+    "$oid": "667763b6d1264f907172025f"
+  },
+  "doc_persona": "0992339411001",
+  "id": "4",
+  "fecha": "26/07/2022",
+  "numero_proceso": "09332202210851",
+  "accion_infraccion": "TERMINACIÓN DE CONTRATO"
+},
+{
+  "_id": {
+    "$oid": "667763b6d1264f9071720260"
+  },
+  "doc_persona": "0992339411001",
+  "id": "5",
+  "fecha": "06/05/2022",
+  "numero_proceso": "09286202202415G",
+  "accion_infraccion": "SOLICITUD DE OFICIO"
+},
+{
+  "_id": {
+    "$oid": "667763b6d1264f9071720261"
+  },
+  "doc_persona": "0992339411001",
+  "id": "6",
+  "fecha": "07/09/2021",
+  "numero_proceso": "09332202111494",
+  "accion_infraccion": "INCUMPLIMIENTO DE CONTRATO"
+},
+{
+  "_id": {
+    "$oid": "667763b6d1264f9071720262"
+  },
+  "doc_persona": "0992339411001",
+  "id": "7",
+  "fecha": "18/06/2021",
+  "numero_proceso": "09332202107378",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763b6d1264f9071720263"
+  },
+  "doc_persona": "0992339411001",
+  "id": "8",
+  "fecha": "16/03/2021",
+  "numero_proceso": "07333202100569",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763b6d1264f9071720264"
+  },
+  "doc_persona": "0992339411001",
+  "id": "9",
+  "fecha": "05/11/2020",
+  "numero_proceso": "09332202009600",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763b6d1264f9071720265"
+  },
+  "doc_persona": "0992339411001",
+  "id": "10",
+  "fecha": "20/08/2020",
+  "numero_proceso": "09332202006026",
+  "accion_infraccion": "LAS ORDENADAS POR LEY (ART. 332 # 1)"
+},
+{
+  "_id": {
+    "$oid": "667763b9b985e12c7394e15d"
+  },
+  "doc_persona": "0968599020001",
+  "id": "11",
+  "fecha": "05/07/2023",
+  "numero_proceso": "17811202301392",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "667763b9b985e12c7394e15e"
+  },
+  "doc_persona": "0968599020001",
+  "id": "12",
+  "fecha": "09/03/2023",
+  "numero_proceso": "09802202300293",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "667763b9b985e12c7394e15f"
+  },
+  "doc_persona": "0968599020001",
+  "id": "13",
+  "fecha": "03/02/2023",
+  "numero_proceso": "23303202300098G",
+  "accion_infraccion": "APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD"
+},
+{
+  "_id": {
+    "$oid": "667763b9b985e12c7394e160"
+  },
+  "doc_persona": "0968599020001",
+  "id": "14",
+  "fecha": "10/01/2023",
+  "numero_proceso": "13802202300007",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "667763b9b985e12c7394e161"
+  },
+  "doc_persona": "0968599020001",
+  "id": "15",
+  "fecha": "09/01/2023",
+  "numero_proceso": "13337202300012",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763b9b985e12c7394e162"
+  },
+  "doc_persona": "0968599020001",
+  "id": "16",
+  "fecha": "14/12/2022",
+  "numero_proceso": "13284202221340",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 6"
+},
+{
+  "_id": {
+    "$oid": "667763b9b985e12c7394e163"
+  },
+  "doc_persona": "0968599020001",
+  "id": "17",
+  "fecha": "09/12/2022",
+  "numero_proceso": "13337202202139",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763bab985e12c7394e164"
+  },
+  "doc_persona": "0968599020001",
+  "id": "18",
+  "fecha": "09/12/2022",
+  "numero_proceso": "13337202202138",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763bab985e12c7394e165"
+  },
+  "doc_persona": "0968599020001",
+  "id": "19",
+  "fecha": "08/12/2022",
+  "numero_proceso": "13337202202137",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763bab985e12c7394e166"
+  },
+  "doc_persona": "0968599020001",
+  "id": "20",
+  "fecha": "08/12/2022",
+  "numero_proceso": "13337202202136",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763bfd1264f9071720266"
+  },
+  "doc_persona": "0992339411001",
+  "id": "11",
+  "fecha": "17/02/2020",
+  "numero_proceso": "09332202001746",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763bfd1264f9071720267"
+  },
+  "doc_persona": "0992339411001",
+  "id": "12",
+  "fecha": "17/02/2020",
+  "numero_proceso": "09332202001744",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763bfd1264f9071720268"
+  },
+  "doc_persona": "0992339411001",
+  "id": "13",
+  "fecha": "17/02/2020",
+  "numero_proceso": "09332202001743",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763c0d1264f9071720269"
+  },
+  "doc_persona": "0992339411001",
+  "id": "14",
+  "fecha": "02/04/2019",
+  "numero_proceso": "09332201904039",
+  "accion_infraccion": "LAS ORDENADAS POR LEY (ART. 332 # 1)"
+},
+{
+  "_id": {
+    "$oid": "667763c0d1264f907172026a"
+  },
+  "doc_persona": "0992339411001",
+  "id": "15",
+  "fecha": "02/04/2019",
+  "numero_proceso": "09332201904038",
+  "accion_infraccion": "LAS ORDENADAS POR LEY (ART. 332 # 1)"
+},
+{
+  "_id": {
+    "$oid": "667763c0d1264f907172026b"
+  },
+  "doc_persona": "0992339411001",
+  "id": "16",
+  "fecha": "02/04/2019",
+  "numero_proceso": "09332201904036",
+  "accion_infraccion": "LAS ORDENADAS POR LEY (ART. 332 # 1)"
+},
+{
+  "_id": {
+    "$oid": "667763c0d1264f907172026c"
+  },
+  "doc_persona": "0992339411001",
+  "id": "17",
+  "fecha": "02/04/2019",
+  "numero_proceso": "09332201904031",
+  "accion_infraccion": "COBRO DE LETRA DE CAMBIO"
+},
+{
+  "_id": {
+    "$oid": "667763c0d1264f907172026d"
+  },
+  "doc_persona": "0992339411001",
+  "id": "18",
+  "fecha": "14/11/2018",
+  "numero_proceso": "09332201812430",
+  "accion_infraccion": "LAS ORDENADAS POR LEY (ART. 332 # 1)"
+},
+{
+  "_id": {
+    "$oid": "667763c0d1264f907172026e"
+  },
+  "doc_persona": "0992339411001",
+  "id": "19",
+  "fecha": "14/11/2018",
+  "numero_proceso": "09332201812428",
+  "accion_infraccion": "OTROS"
+},
+{
+  "_id": {
+    "$oid": "667763c0d1264f907172026f"
+  },
+  "doc_persona": "0992339411001",
+  "id": "20",
+  "fecha": "14/11/2018",
+  "numero_proceso": "09332201812427",
+  "accion_infraccion": "OTROS"
+},
+{
+  "_id": {
+    "$oid": "667763cbb985e12c7394e167"
+  },
+  "doc_persona": "0968599020001",
+  "id": "21",
+  "fecha": "08/12/2022",
+  "numero_proceso": "13337202202135",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763cbb985e12c7394e168"
+  },
+  "doc_persona": "0968599020001",
+  "id": "22",
+  "fecha": "08/12/2022",
+  "numero_proceso": "13337202202134",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763cbb985e12c7394e169"
+  },
+  "doc_persona": "0968599020001",
+  "id": "23",
+  "fecha": "23/11/2022",
+  "numero_proceso": "13284202219881",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 6"
+},
+{
+  "_id": {
+    "$oid": "667763cbb985e12c7394e16a"
+  },
+  "doc_persona": "0968599020001",
+  "id": "24",
+  "fecha": "07/10/2022",
+  "numero_proceso": "18803202200457",
+  "accion_infraccion": "CONTROVERSIAS EN MATERIA DE CONTRATACIÓN PÚBLICA"
+},
+{
+  "_id": {
+    "$oid": "667763ccb985e12c7394e16b"
+  },
+  "doc_persona": "0968599020001",
+  "id": "25",
+  "fecha": "15/09/2022",
+  "numero_proceso": "13802202200437",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "667763ccb985e12c7394e16c"
+  },
+  "doc_persona": "0968599020001",
+  "id": "26",
+  "fecha": "03/08/2022",
+  "numero_proceso": "23281202203746",
+  "accion_infraccion": "380 DAÑOS MATERIALES"
+},
+{
+  "_id": {
+    "$oid": "667763ccb985e12c7394e16d"
+  },
+  "doc_persona": "0968599020001",
+  "id": "27",
+  "fecha": "02/08/2022",
+  "numero_proceso": "09802202200924",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "667763ccb985e12c7394e16e"
+  },
+  "doc_persona": "0968599020001",
+  "id": "28",
+  "fecha": "29/06/2022",
+  "numero_proceso": "23281202203414G",
+  "accion_infraccion": "APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD"
+},
+{
+  "_id": {
+    "$oid": "667763ccb985e12c7394e16f"
+  },
+  "doc_persona": "0968599020001",
+  "id": "29",
+  "fecha": "26/05/2022",
+  "numero_proceso": "09201202201814",
+  "accion_infraccion": "ACCIÓN DE PROTECCIÓN"
+},
+{
+  "_id": {
+    "$oid": "667763ccb985e12c7394e170"
+  },
+  "doc_persona": "0968599020001",
+  "id": "30",
+  "fecha": "22/04/2022",
+  "numero_proceso": "13802202200194",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "667763d1d1264f9071720270"
+  },
+  "doc_persona": "0992339411001",
+  "id": "21",
+  "fecha": "14/11/2018",
+  "numero_proceso": "09332201812426",
+  "accion_infraccion": "LAS ORDENADAS POR LEY (ART. 332 # 1)"
+},
+{
+  "_id": {
+    "$oid": "667763d1d1264f9071720271"
+  },
+  "doc_persona": "0992339411001",
+  "id": "22",
+  "fecha": "14/11/2018",
+  "numero_proceso": "09332201812425",
+  "accion_infraccion": "COBRO DE DINERO"
+},
+{
+  "_id": {
+    "$oid": "667763d1d1264f9071720272"
+  },
+  "doc_persona": "0992339411001",
+  "id": "23",
+  "fecha": "14/11/2018",
+  "numero_proceso": "09332201812424",
+  "accion_infraccion": "LAS ORDENADAS POR LEY (ART. 332 # 1)"
+},
+{
+  "_id": {
+    "$oid": "667763d2d1264f9071720273"
+  },
+  "doc_persona": "0992339411001",
+  "id": "24",
+  "fecha": "14/11/2018",
+  "numero_proceso": "09332201812423",
+  "accion_infraccion": "LAS ORDENADAS POR LEY (ART. 332 # 1)"
+},
+{
+  "_id": {
+    "$oid": "667763d2d1264f9071720274"
+  },
+  "doc_persona": "0992339411001",
+  "id": "25",
+  "fecha": "13/08/2018",
+  "numero_proceso": "09332201808761",
+  "accion_infraccion": "COBRO DE DINERO"
+},
+{
+  "_id": {
+    "$oid": "667763d2d1264f9071720275"
+  },
+  "doc_persona": "0992339411001",
+  "id": "26",
+  "fecha": "13/08/2018",
+  "numero_proceso": "09332201808758",
+  "accion_infraccion": "OTROS"
+},
+{
+  "_id": {
+    "$oid": "667763d2d1264f9071720276"
+  },
+  "doc_persona": "0992339411001",
+  "id": "27",
+  "fecha": "19/06/2018",
+  "numero_proceso": "09332201806299",
+  "accion_infraccion": "OTROS"
+},
+{
+  "_id": {
+    "$oid": "667763d2d1264f9071720277"
+  },
+  "doc_persona": "0992339411001",
+  "id": "28",
+  "fecha": "15/06/2018",
+  "numero_proceso": "09332201806174",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763d2d1264f9071720278"
+  },
+  "doc_persona": "0992339411001",
+  "id": "29",
+  "fecha": "15/06/2018",
+  "numero_proceso": "09332201806173",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763d2d1264f9071720279"
+  },
+  "doc_persona": "0992339411001",
+  "id": "30",
+  "fecha": "15/06/2018",
+  "numero_proceso": "09332201806171",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763dfb985e12c7394e171"
+  },
+  "doc_persona": "0968599020001",
+  "id": "31",
+  "fecha": "11/02/2022",
+  "numero_proceso": "02331202200123",
+  "accion_infraccion": "EJECUCIÓN DE ACTA DE TRANSACCIÓN"
+},
+{
+  "_id": {
+    "$oid": "667763dfb985e12c7394e172"
+  },
+  "doc_persona": "0968599020001",
+  "id": "32",
+  "fecha": "04/02/2022",
+  "numero_proceso": "09802202200154",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "667763dfb985e12c7394e173"
+  },
+  "doc_persona": "0968599020001",
+  "id": "33",
+  "fecha": "11/01/2022",
+  "numero_proceso": "02331202200019",
+  "accion_infraccion": "DOCUMENTOS ART. 356 NUM.1"
+},
+{
+  "_id": {
+    "$oid": "667763dfb985e12c7394e174"
+  },
+  "doc_persona": "0968599020001",
+  "id": "34",
+  "fecha": "20/12/2021",
+  "numero_proceso": "08282202112783",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763dfb985e12c7394e175"
+  },
+  "doc_persona": "0968599020001",
+  "id": "35",
+  "fecha": "20/12/2021",
+  "numero_proceso": "08282202112782",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763dfb985e12c7394e176"
+  },
+  "doc_persona": "0968599020001",
+  "id": "36",
+  "fecha": "20/12/2021",
+  "numero_proceso": "08282202112781",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763dfb985e12c7394e177"
+  },
+  "doc_persona": "0968599020001",
+  "id": "37",
+  "fecha": "20/12/2021",
+  "numero_proceso": "08282202112780",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763dfb985e12c7394e178"
+  },
+  "doc_persona": "0968599020001",
+  "id": "38",
+  "fecha": "20/12/2021",
+  "numero_proceso": "08282202112779",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763e0b985e12c7394e179"
+  },
+  "doc_persona": "0968599020001",
+  "id": "39",
+  "fecha": "20/12/2021",
+  "numero_proceso": "08282202112778",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763e0b985e12c7394e17a"
+  },
+  "doc_persona": "0968599020001",
+  "id": "40",
+  "fecha": "13/12/2021",
+  "numero_proceso": "07333202103082",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763e4d1264f907172027a"
+  },
+  "doc_persona": "0992339411001",
+  "id": "31",
+  "fecha": "15/06/2018",
+  "numero_proceso": "09332201806170",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763e4d1264f907172027b"
+  },
+  "doc_persona": "0992339411001",
+  "id": "32",
+  "fecha": "11/06/2018",
+  "numero_proceso": "09332201805904",
+  "accion_infraccion": "COBRO DE LETRA DE CAMBIO"
+},
+{
+  "_id": {
+    "$oid": "667763e4d1264f907172027c"
+  },
+  "doc_persona": "0992339411001",
+  "id": "33",
+  "fecha": "07/05/2018",
+  "numero_proceso": "09332201804546",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763e4d1264f907172027d"
+  },
+  "doc_persona": "0992339411001",
+  "id": "34",
+  "fecha": "10/04/2018",
+  "numero_proceso": "09332201803660",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763e4d1264f907172027e"
+  },
+  "doc_persona": "0992339411001",
+  "id": "35",
+  "fecha": "10/04/2018",
+  "numero_proceso": "09332201803659",
+  "accion_infraccion": "OTROS"
+},
+{
+  "_id": {
+    "$oid": "667763e4d1264f907172027f"
+  },
+  "doc_persona": "0992339411001",
+  "id": "36",
+  "fecha": "10/04/2018",
+  "numero_proceso": "09332201803658",
+  "accion_infraccion": "COBRO DE DINERO"
+},
+{
+  "_id": {
+    "$oid": "667763e4d1264f9071720280"
+  },
+  "doc_persona": "0992339411001",
+  "id": "37",
+  "fecha": "10/04/2018",
+  "numero_proceso": "09332201803657",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763e4d1264f9071720281"
+  },
+  "doc_persona": "0992339411001",
+  "id": "38",
+  "fecha": "10/04/2018",
+  "numero_proceso": "09332201803640",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763e5d1264f9071720282"
+  },
+  "doc_persona": "0992339411001",
+  "id": "39",
+  "fecha": "02/04/2018",
+  "numero_proceso": "09332201803329",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763e5d1264f9071720283"
+  },
+  "doc_persona": "0992339411001",
+  "id": "40",
+  "fecha": "13/03/2018",
+  "numero_proceso": "09332201802525",
+  "accion_infraccion": "COBRO DE LETRA DE CAMBIO"
+},
+{
+  "_id": {
+    "$oid": "667763f3b985e12c7394e17b"
+  },
+  "doc_persona": "0968599020001",
+  "id": "41",
+  "fecha": "13/12/2021",
+  "numero_proceso": "07333202103079",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "667763f3b985e12c7394e17c"
+  },
+  "doc_persona": "0968599020001",
+  "id": "42",
+  "fecha": "08/12/2021",
+  "numero_proceso": "07317202100918",
+  "accion_infraccion": "PAGO POR CONSIGNACIÓN"
+},
+{
+  "_id": {
+    "$oid": "667763f3b985e12c7394e17d"
+  },
+  "doc_persona": "0968599020001",
+  "id": "43",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111571",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763f3b985e12c7394e17e"
+  },
+  "doc_persona": "0968599020001",
+  "id": "44",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111570",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763f3b985e12c7394e17f"
+  },
+  "doc_persona": "0968599020001",
+  "id": "45",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111569",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763f3b985e12c7394e180"
+  },
+  "doc_persona": "0968599020001",
+  "id": "46",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111568",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763f3b985e12c7394e181"
+  },
+  "doc_persona": "0968599020001",
+  "id": "47",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111566",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763f3b985e12c7394e182"
+  },
+  "doc_persona": "0968599020001",
+  "id": "48",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111565",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763f3b985e12c7394e183"
+  },
+  "doc_persona": "0968599020001",
+  "id": "49",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111564",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763f4b985e12c7394e184"
+  },
+  "doc_persona": "0968599020001",
+  "id": "50",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111561",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "667763f7d1264f9071720284"
+  },
+  "doc_persona": "0992339411001",
+  "id": "41",
+  "fecha": "08/01/2018",
+  "numero_proceso": "09332201800171",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763f7d1264f9071720285"
+  },
+  "doc_persona": "0992339411001",
+  "id": "42",
+  "fecha": "08/01/2018",
+  "numero_proceso": "09332201800170",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763f7d1264f9071720286"
+  },
+  "doc_persona": "0992339411001",
+  "id": "43",
+  "fecha": "08/01/2018",
+  "numero_proceso": "09332201800168",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "667763f7d1264f9071720287"
+  },
+  "doc_persona": "0992339411001",
+  "id": "44",
+  "fecha": "27/12/2017",
+  "numero_proceso": "09332201711343",
+  "accion_infraccion": "EMBARGO Y REMATE DE PRENDA"
+},
+{
+  "_id": {
+    "$oid": "667763f7d1264f9071720288"
+  },
+  "doc_persona": "0992339411001",
+  "id": "45",
+  "fecha": "21/12/2017",
+  "numero_proceso": "09332201711240",
+  "accion_infraccion": "COBRO DE DINERO"
+},
+{
+  "_id": {
+    "$oid": "667763f7d1264f9071720289"
+  },
+  "doc_persona": "0992339411001",
+  "id": "46",
+  "fecha": "21/12/2017",
+  "numero_proceso": "09332201711238",
+  "accion_infraccion": "OTROS"
+},
+{
+  "_id": {
+    "$oid": "667763f7d1264f907172028a"
+  },
+  "doc_persona": "0992339411001",
+  "id": "47",
+  "fecha": "28/11/2017",
+  "numero_proceso": "07308201700668G",
+  "accion_infraccion": "DEPRECATORIO"
+},
+{
+  "_id": {
+    "$oid": "667763f7d1264f907172028b"
+  },
+  "doc_persona": "0992339411001",
+  "id": "48",
+  "fecha": "11/10/2017",
+  "numero_proceso": "09332201708446",
+  "accion_infraccion": "EMBARGO Y REMATE DE BIEN CON RESERVA DE DOMINIO"
+},
+{
+  "_id": {
+    "$oid": "667763f8d1264f907172028c"
+  },
+  "doc_persona": "0992339411001",
+  "id": "49",
+  "fecha": "01/08/2017",
+  "numero_proceso": "09332201705966",
+  "accion_infraccion": "EMBARGO Y REMATE DE PRENDA"
+},
+{
+  "_id": {
+    "$oid": "667763f8d1264f907172028d"
+  },
+  "doc_persona": "0992339411001",
+  "id": "50",
+  "fecha": "13/01/2017",
+  "numero_proceso": "07307201700030",
+  "accion_infraccion": "COBRO DE DINERO"
+},
+{
+  "_id": {
+    "$oid": "66776405b985e12c7394e185"
+  },
+  "doc_persona": "0968599020001",
+  "id": "51",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111560",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776405b985e12c7394e186"
+  },
+  "doc_persona": "0968599020001",
+  "id": "52",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111559",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776405b985e12c7394e187"
+  },
+  "doc_persona": "0968599020001",
+  "id": "53",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111557",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776405b985e12c7394e188"
+  },
+  "doc_persona": "0968599020001",
+  "id": "54",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111556",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776405b985e12c7394e189"
+  },
+  "doc_persona": "0968599020001",
+  "id": "55",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111555",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776405b985e12c7394e18a"
+  },
+  "doc_persona": "0968599020001",
+  "id": "56",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111554",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776405b985e12c7394e18b"
+  },
+  "doc_persona": "0968599020001",
+  "id": "57",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111553",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776405b985e12c7394e18c"
+  },
+  "doc_persona": "0968599020001",
+  "id": "58",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111552",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776406b985e12c7394e18d"
+  },
+  "doc_persona": "0968599020001",
+  "id": "59",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111551",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776406b985e12c7394e18e"
+  },
+  "doc_persona": "0968599020001",
+  "id": "60",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111550",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677640ad1264f907172028e"
+  },
+  "doc_persona": "0992339411001",
+  "id": "51",
+  "fecha": "18/03/2015",
+  "numero_proceso": "09332201502465",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "6677640ad1264f907172028f"
+  },
+  "doc_persona": "0992339411001",
+  "id": "52",
+  "fecha": "18/03/2015",
+  "numero_proceso": "09332201502460",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "6677640ad1264f9071720290"
+  },
+  "doc_persona": "0992339411001",
+  "id": "53",
+  "fecha": "02/07/2014",
+  "numero_proceso": "09332201461444",
+  "accion_infraccion": "EJECUTIVO ART. 413 C.P.C."
+},
+{
+  "_id": {
+    "$oid": "6677640ad1264f9071720291"
+  },
+  "doc_persona": "0992339411001",
+  "id": "54",
+  "fecha": "28/04/2014",
+  "numero_proceso": "09332201453781",
+  "accion_infraccion": "EMBARGO Y REMATE CON RESERVA DE DOMINIO LITERAL J ART. 202 C.COMERCIO"
+},
+{
+  "_id": {
+    "$oid": "6677640ad1264f9071720292"
+  },
+  "doc_persona": "0992339411001",
+  "id": "55",
+  "fecha": "10/04/2014",
+  "numero_proceso": "09332201451229",
+  "accion_infraccion": "EMBARGO Y REMATE CON RESERVA DE DOMINIO LITERAL J ART. 202 C.COMERCIO"
+},
+{
+  "_id": {
+    "$oid": "6677640ad1264f9071720293"
+  },
+  "doc_persona": "0992339411001",
+  "id": "56",
+  "fecha": "20/03/2014",
+  "numero_proceso": "09332201445878",
+  "accion_infraccion": "EMBARGO Y REMATE CON RESERVA DE DOMINIO LITERAL J ART. 202 C.COMERCIO"
+},
+{
+  "_id": {
+    "$oid": "6677640ad1264f9071720294"
+  },
+  "doc_persona": "0992339411001",
+  "id": "57",
+  "fecha": "12/03/2014",
+  "numero_proceso": "09332201443698",
+  "accion_infraccion": "EMBARGO Y REMATE CON RESERVA DE DOMINIO LITERAL J ART. 202 C.COMERCIO"
+},
+{
+  "_id": {
+    "$oid": "6677640ad1264f9071720295"
+  },
+  "doc_persona": "0992339411001",
+  "id": "58",
+  "fecha": "13/02/2014",
+  "numero_proceso": "09332201430233",
+  "accion_infraccion": "EMBARGO Y REMATE CON RESERVA DE DOMINIO LITERAL J ART. 202 C.COMERCIO"
+},
+{
+  "_id": {
+    "$oid": "6677640ad1264f9071720296"
+  },
+  "doc_persona": "0992339411001",
+  "id": "59",
+  "fecha": "03/02/2014",
+  "numero_proceso": "09332201422824",
+  "accion_infraccion": "EMBARGO Y REMATE CON RESERVA DE DOMINIO LITERAL J ART. 202 C.COMERCIO"
+},
+{
+  "_id": {
+    "$oid": "6677640bd1264f9071720297"
+  },
+  "doc_persona": "0992339411001",
+  "id": "60",
+  "fecha": "01/02/2014",
+  "numero_proceso": "09332201422390",
+  "accion_infraccion": "EMBARGO Y REMATE CON RESERVA DE DOMINIO LITERAL J ART. 202 C.COMERCIO"
+},
+{
+  "_id": {
+    "$oid": "66776418b985e12c7394e18f"
+  },
+  "doc_persona": "0968599020001",
+  "id": "61",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111549",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776418b985e12c7394e190"
+  },
+  "doc_persona": "0968599020001",
+  "id": "62",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111548",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776418b985e12c7394e191"
+  },
+  "doc_persona": "0968599020001",
+  "id": "63",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111547",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776418b985e12c7394e192"
+  },
+  "doc_persona": "0968599020001",
+  "id": "64",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111546",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776418b985e12c7394e193"
+  },
+  "doc_persona": "0968599020001",
+  "id": "65",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111545",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776418b985e12c7394e194"
+  },
+  "doc_persona": "0968599020001",
+  "id": "66",
+  "fecha": "22/11/2021",
+  "numero_proceso": "08282202111544",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776418b985e12c7394e195"
+  },
+  "doc_persona": "0968599020001",
+  "id": "67",
+  "fecha": "18/11/2021",
+  "numero_proceso": "08282202111531",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776418b985e12c7394e196"
+  },
+  "doc_persona": "0968599020001",
+  "id": "68",
+  "fecha": "18/11/2021",
+  "numero_proceso": "08282202111530",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776418b985e12c7394e197"
+  },
+  "doc_persona": "0968599020001",
+  "id": "69",
+  "fecha": "18/11/2021",
+  "numero_proceso": "08282202111529",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776418b985e12c7394e198"
+  },
+  "doc_persona": "0968599020001",
+  "id": "70",
+  "fecha": "18/11/2021",
+  "numero_proceso": "08282202111528",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677641cd1264f9071720298"
+  },
+  "doc_persona": "0992339411001",
+  "id": "61",
+  "fecha": "25/01/2014",
+  "numero_proceso": "09332201417616",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "6677641cd1264f9071720299"
+  },
+  "doc_persona": "0992339411001",
+  "id": "62",
+  "fecha": "20/01/2014",
+  "numero_proceso": "09332201413604",
+  "accion_infraccion": "EMBARGO Y REMATE CON RESERVA DE DOMINIO LITERAL J ART. 202 C.COMERCIO"
+},
+{
+  "_id": {
+    "$oid": "6677641cd1264f907172029a"
+  },
+  "doc_persona": "0992339411001",
+  "id": "63",
+  "fecha": "15/01/2014",
+  "numero_proceso": "09332201411123",
+  "accion_infraccion": "PAGARE A LA ORDEN ART. 486 CODIGO DE COMERCIO ART. 413.CPC."
+},
+{
+  "_id": {
+    "$oid": "6677641dd1264f907172029b"
+  },
+  "doc_persona": "0992339411001",
+  "id": "64",
+  "fecha": "02/01/2014",
+  "numero_proceso": "0933220140227",
+  "accion_infraccion": "COBRO DE PAGARÉ A LA ORDEN"
+},
+{
+  "_id": {
+    "$oid": "6677642bb985e12c7394e199"
+  },
+  "doc_persona": "0968599020001",
+  "id": "71",
+  "fecha": "18/11/2021",
+  "numero_proceso": "08282202111527",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677642bb985e12c7394e19a"
+  },
+  "doc_persona": "0968599020001",
+  "id": "72",
+  "fecha": "18/11/2021",
+  "numero_proceso": "08282202111526",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677642cb985e12c7394e19b"
+  },
+  "doc_persona": "0968599020001",
+  "id": "73",
+  "fecha": "18/11/2021",
+  "numero_proceso": "08282202111524",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677642cb985e12c7394e19c"
+  },
+  "doc_persona": "0968599020001",
+  "id": "74",
+  "fecha": "18/11/2021",
+  "numero_proceso": "08282202111522",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677642cb985e12c7394e19d"
+  },
+  "doc_persona": "0968599020001",
+  "id": "75",
+  "fecha": "18/11/2021",
+  "numero_proceso": "08282202111520",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677642cb985e12c7394e19e"
+  },
+  "doc_persona": "0968599020001",
+  "id": "76",
+  "fecha": "18/11/2021",
+  "numero_proceso": "08282202111519",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677642cb985e12c7394e19f"
+  },
+  "doc_persona": "0968599020001",
+  "id": "77",
+  "fecha": "17/11/2021",
+  "numero_proceso": "08282202111449",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677642cb985e12c7394e1a0"
+  },
+  "doc_persona": "0968599020001",
+  "id": "78",
+  "fecha": "17/11/2021",
+  "numero_proceso": "08282202111447",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677642cb985e12c7394e1a1"
+  },
+  "doc_persona": "0968599020001",
+  "id": "79",
+  "fecha": "17/11/2021",
+  "numero_proceso": "08282202111442",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677642cb985e12c7394e1a2"
+  },
+  "doc_persona": "0968599020001",
+  "id": "80",
+  "fecha": "17/11/2021",
+  "numero_proceso": "08282202111404",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677643fb985e12c7394e1a3"
+  },
+  "doc_persona": "0968599020001",
+  "id": "81",
+  "fecha": "28/10/2021",
+  "numero_proceso": "07333202102617",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "6677643fb985e12c7394e1a4"
+  },
+  "doc_persona": "0968599020001",
+  "id": "82",
+  "fecha": "28/10/2021",
+  "numero_proceso": "07333202102616",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "6677643fb985e12c7394e1a5"
+  },
+  "doc_persona": "0968599020001",
+  "id": "83",
+  "fecha": "27/10/2021",
+  "numero_proceso": "07333202102611",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "6677643fb985e12c7394e1a6"
+  },
+  "doc_persona": "0968599020001",
+  "id": "84",
+  "fecha": "27/10/2021",
+  "numero_proceso": "07333202102609",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "6677643fb985e12c7394e1a7"
+  },
+  "doc_persona": "0968599020001",
+  "id": "85",
+  "fecha": "27/10/2021",
+  "numero_proceso": "07333202102608",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "6677643fb985e12c7394e1a8"
+  },
+  "doc_persona": "0968599020001",
+  "id": "86",
+  "fecha": "30/08/2021",
+  "numero_proceso": "13284202107492",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "6677643fb985e12c7394e1a9"
+  },
+  "doc_persona": "0968599020001",
+  "id": "87",
+  "fecha": "30/08/2021",
+  "numero_proceso": "13284202107490",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 6"
+},
+{
+  "_id": {
+    "$oid": "6677643fb985e12c7394e1aa"
+  },
+  "doc_persona": "0968599020001",
+  "id": "88",
+  "fecha": "30/08/2021",
+  "numero_proceso": "13284202107489",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 1"
+},
+{
+  "_id": {
+    "$oid": "66776440b985e12c7394e1ab"
+  },
+  "doc_persona": "0968599020001",
+  "id": "89",
+  "fecha": "28/08/2021",
+  "numero_proceso": "23281202103446",
+  "accion_infraccion": "209 CONTRAVENCIÓN DE HURTO"
+},
+{
+  "_id": {
+    "$oid": "66776440b985e12c7394e1ac"
+  },
+  "doc_persona": "0968599020001",
+  "id": "90",
+  "fecha": "13/08/2021",
+  "numero_proceso": "13284202106703",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 6"
+},
+{
+  "_id": {
+    "$oid": "66776453b985e12c7394e1ad"
+  },
+  "doc_persona": "0968599020001",
+  "id": "91",
+  "fecha": "30/06/2021",
+  "numero_proceso": "09332202108068",
+  "accion_infraccion": "CONCURSO DE ACREEDORES"
+},
+{
+  "_id": {
+    "$oid": "66776453b985e12c7394e1ae"
+  },
+  "doc_persona": "0968599020001",
+  "id": "92",
+  "fecha": "04/06/2021",
+  "numero_proceso": "24202202100370G",
+  "accion_infraccion": "ARCHIVO DE LA INVESTIGACIÓN PREVIA ART. 586"
+},
+{
+  "_id": {
+    "$oid": "66776453b985e12c7394e1af"
+  },
+  "doc_persona": "0968599020001",
+  "id": "93",
+  "fecha": "28/05/2021",
+  "numero_proceso": "21331202100198",
+  "accion_infraccion": "MEDIDA CAUTELAR"
+},
+{
+  "_id": {
+    "$oid": "66776453b985e12c7394e1b0"
+  },
+  "doc_persona": "0968599020001",
+  "id": "94",
+  "fecha": "06/05/2021",
+  "numero_proceso": "24202202100179G",
+  "accion_infraccion": "ARCHIVO DE LA INVESTIGACIÓN PREVIA ART. 586"
+},
+{
+  "_id": {
+    "$oid": "66776453b985e12c7394e1b1"
+  },
+  "doc_persona": "0968599020001",
+  "id": "95",
+  "fecha": "13/04/2021",
+  "numero_proceso": "09802202100428",
+  "accion_infraccion": "CONTROVERSIAS EN MATERIA DE CONTRATACIÓN PÚBLICA"
+},
+{
+  "_id": {
+    "$oid": "66776453b985e12c7394e1b2"
+  },
+  "doc_persona": "0968599020001",
+  "id": "96",
+  "fecha": "29/10/2020",
+  "numero_proceso": "13284202007698",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 6"
+},
+{
+  "_id": {
+    "$oid": "66776454b985e12c7394e1b3"
+  },
+  "doc_persona": "0968599020001",
+  "id": "97",
+  "fecha": "18/02/2020",
+  "numero_proceso": "13284202001312G",
+  "accion_infraccion": "ARCHIVO DE LA INVESTIGACIÓN PREVIA ART. 586"
+},
+{
+  "_id": {
+    "$oid": "66776454b985e12c7394e1b4"
+  },
+  "doc_persona": "0968599020001",
+  "id": "98",
+  "fecha": "26/12/2019",
+  "numero_proceso": "13284201907041",
+  "accion_infraccion": "389 CONTRAVENCIONES DE TRÁNSITO DE CUARTA CLASE, INC.1, NUM. 6"
+},
+{
+  "_id": {
+    "$oid": "66776454b985e12c7394e1b5"
+  },
+  "doc_persona": "0968599020001",
+  "id": "99",
+  "fecha": "18/09/2019",
+  "numero_proceso": "09802201900978",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "66776454b985e12c7394e1b6"
+  },
+  "doc_persona": "0968599020001",
+  "id": "100",
+  "fecha": "16/09/2019",
+  "numero_proceso": "11804201900305",
+  "accion_infraccion": "CONTROVERSIAS EN MATERIA DE CONTRATACIÓN PÚBLICA"
+},
+{
+  "_id": {
+    "$oid": "66776468b985e12c7394e1b7"
+  },
+  "doc_persona": "0968599020001",
+  "id": "101",
+  "fecha": "29/08/2019",
+  "numero_proceso": "13802201900316",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "66776468b985e12c7394e1b8"
+  },
+  "doc_persona": "0968599020001",
+  "id": "102",
+  "fecha": "29/08/2019",
+  "numero_proceso": "13802201900315",
+  "accion_infraccion": "CONTROVERSIAS EN MATERIA DE CONTRATACIÓN PÚBLICA"
+},
+{
+  "_id": {
+    "$oid": "66776468b985e12c7394e1b9"
+  },
+  "doc_persona": "0968599020001",
+  "id": "103",
+  "fecha": "20/06/2019",
+  "numero_proceso": "09501201900205",
+  "accion_infraccion": "EXCEPCIONES A LA COACTIVA"
+},
+{
+  "_id": {
+    "$oid": "66776468b985e12c7394e1ba"
+  },
+  "doc_persona": "0968599020001",
+  "id": "104",
+  "fecha": "26/03/2019",
+  "numero_proceso": "08304201900023",
+  "accion_infraccion": "ACCIÓN DE PROTECCIÓN CON MEDIDA CAUTELAR"
+},
+{
+  "_id": {
+    "$oid": "66776468b985e12c7394e1bb"
+  },
+  "doc_persona": "0968599020001",
+  "id": "105",
+  "fecha": "12/10/2018",
+  "numero_proceso": "09802201800988",
+  "accion_infraccion": "CONTROVERSIAS EN MATERIA DE CONTRATACIÓN PÚBLICA"
+},
+{
+  "_id": {
+    "$oid": "66776468b985e12c7394e1bc"
+  },
+  "doc_persona": "0968599020001",
+  "id": "106",
+  "fecha": "22/06/2018",
+  "numero_proceso": "13337201800757",
+  "accion_infraccion": "COBRO DE DINERO"
+},
+{
+  "_id": {
+    "$oid": "66776468b985e12c7394e1bd"
+  },
+  "doc_persona": "0968599020001",
+  "id": "107",
+  "fecha": "29/05/2018",
+  "numero_proceso": "08304201800030",
+  "accion_infraccion": "NULIDAD DE SENTENCIA"
+},
+{
+  "_id": {
+    "$oid": "66776468b985e12c7394e1be"
+  },
+  "doc_persona": "0968599020001",
+  "id": "108",
+  "fecha": "23/05/2018",
+  "numero_proceso": "09802201800458",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "66776469b985e12c7394e1bf"
+  },
+  "doc_persona": "0968599020001",
+  "id": "109",
+  "fecha": "17/04/2018",
+  "numero_proceso": "13802201800144",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "66776469b985e12c7394e1c0"
+  },
+  "doc_persona": "0968599020001",
+  "id": "110",
+  "fecha": "08/03/2018",
+  "numero_proceso": "09802201800201",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "6677647bb985e12c7394e1c1"
+  },
+  "doc_persona": "0968599020001",
+  "id": "111",
+  "fecha": "08/03/2018",
+  "numero_proceso": "09802201800200",
+  "accion_infraccion": "CONTROVERSIAS EN MATERIA DE CONTRATACIÓN PÚBLICA"
+},
+{
+  "_id": {
+    "$oid": "6677647bb985e12c7394e1c2"
+  },
+  "doc_persona": "0968599020001",
+  "id": "112",
+  "fecha": "08/03/2018",
+  "numero_proceso": "09802201800199",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "6677647bb985e12c7394e1c3"
+  },
+  "doc_persona": "0968599020001",
+  "id": "113",
+  "fecha": "08/03/2018",
+  "numero_proceso": "09802201800198",
+  "accion_infraccion": "CONTROVERSIAS EN MATERIA DE CONTRATACIÓN PÚBLICA"
+},
+{
+  "_id": {
+    "$oid": "6677647bb985e12c7394e1c4"
+  },
+  "doc_persona": "0968599020001",
+  "id": "114",
+  "fecha": "08/03/2018",
+  "numero_proceso": "09802201800197",
+  "accion_infraccion": "CONTROVERSIAS EN MATERIA DE CONTRATACIÓN PÚBLICA"
+},
+{
+  "_id": {
+    "$oid": "6677647bb985e12c7394e1c5"
+  },
+  "doc_persona": "0968599020001",
+  "id": "115",
+  "fecha": "08/03/2018",
+  "numero_proceso": "09802201800196",
+  "accion_infraccion": "CONTROVERSIAS EN MATERIA DE CONTRATACIÓN PÚBLICA"
+},
+{
+  "_id": {
+    "$oid": "6677647bb985e12c7394e1c6"
+  },
+  "doc_persona": "0968599020001",
+  "id": "116",
+  "fecha": "20/12/2017",
+  "numero_proceso": "13322201700898G",
+  "accion_infraccion": "ARCHIVO DE LA INVESTIGACIÓN PREVIA ART. 586"
+},
+{
+  "_id": {
+    "$oid": "6677647bb985e12c7394e1c7"
+  },
+  "doc_persona": "0968599020001",
+  "id": "117",
+  "fecha": "15/09/2017",
+  "numero_proceso": "08331201700288G",
+  "accion_infraccion": "COMISIÓN"
+},
+{
+  "_id": {
+    "$oid": "6677647bb985e12c7394e1c8"
+  },
+  "doc_persona": "0968599020001",
+  "id": "118",
+  "fecha": "01/08/2017",
+  "numero_proceso": "13802201700222",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "6677647bb985e12c7394e1c9"
+  },
+  "doc_persona": "0968599020001",
+  "id": "119",
+  "fecha": "01/08/2017",
+  "numero_proceso": "13802201700213",
+  "accion_infraccion": "OBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "6677647cb985e12c7394e1ca"
+  },
+  "doc_persona": "0968599020001",
+  "id": "120",
+  "fecha": "23/01/2017",
+  "numero_proceso": "09802201700048",
+  "accion_infraccion": "SUBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "6677648eb985e12c7394e1cb"
+  },
+  "doc_persona": "0968599020001",
+  "id": "121",
+  "fecha": "02/12/2016",
+  "numero_proceso": "09802201600993",
+  "accion_infraccion": "OBJETIVO"
+},
+{
+  "_id": {
+    "$oid": "6677648eb985e12c7394e1cc"
+  },
+  "doc_persona": "0968599020001",
+  "id": "122",
+  "fecha": "12/07/2016",
+  "numero_proceso": "09286201602913",
+  "accion_infraccion": "377 MUERTE CULPOSA, INC.1"
+},
+{
+  "_id": {
+    "$oid": "6677648eb985e12c7394e1cd"
+  },
+  "doc_persona": "0968599020001",
+  "id": "123",
+  "fecha": "16/06/2015",
+  "numero_proceso": "13334201501114",
+  "accion_infraccion": "DAÑOS Y PERJUICIOS"
+},
+{
+  "_id": {
+    "$oid": "6677648eb985e12c7394e1ce"
+  },
+  "doc_persona": "0968599020001",
+  "id": "124",
+  "fecha": "19/05/2015",
+  "numero_proceso": "09406201524097G",
+  "accion_infraccion": "REGISTRO DE CONTRATO DE ARRENDAMIENTO"
+},
+{
+  "_id": {
+    "$oid": "6677648eb985e12c7394e1cf"
+  },
+  "doc_persona": "0968599020001",
+  "id": "125",
+  "fecha": "28/05/2014",
+  "numero_proceso": "09332201458985",
+  "accion_infraccion": "COPIA DE ESTADO DE CUENTA O LIQUIDACION DE CONSUMO TARJETAS DE CREDITO ART. 828 C.P.C"
+},
+{
+  "_id": {
+    "$oid": "6677648fb985e12c7394e1d0"
+  },
+  "doc_persona": "0968599020001",
+  "id": "126",
+  "fecha": "06/05/2014",
+  "numero_proceso": "09332201455654",
+  "accion_infraccion": "COPIA DE ESTADO DE CUENTA O LIQUIDACION DE CONSUMO TARJETAS DE CREDITO ART. 828 C.P.C"
+},
+{
+  "_id": {
+    "$oid": "6677648fb985e12c7394e1d1"
+  },
+  "doc_persona": "0968599020001",
+  "id": "127",
+  "fecha": "25/04/2014",
+  "numero_proceso": "1233420143617",
+  "accion_infraccion": "HABERES E INDEMNIZACIONES LABORALES"
+},
+{
+  "_id": {
+    "$oid": "6677648fb985e12c7394e1d2"
+  },
+  "doc_persona": "0968599020001",
+  "id": "128",
+  "fecha": "20/03/2014",
+  "numero_proceso": "09332201445870",
+  "accion_infraccion": "INSOLVENCIA ARTS. 519 A 525 CP.C."
+},
+{
+  "_id": {
+    "$oid": "6677648fb985e12c7394e1d3"
+  },
+  "doc_persona": "0968599020001",
+  "id": "129",
+  "fecha": "15/02/2014",
+  "numero_proceso": "09332201430792",
+  "accion_infraccion": "EJECUTIVO ART. 413 C.P.C."
+},
+{
+  "_id": {
+    "$oid": "6677648fb985e12c7394e1d4"
+  },
+  "doc_persona": "0968599020001",
+  "id": "130",
+  "fecha": "10/02/2014",
+  "numero_proceso": "09332201428147",
+  "accion_infraccion": "FACTURAS ART. 828 C.P.C"
+},
+{
+  "_id": {
+    "$oid": "667764a1b985e12c7394e1d5"
+  },
+  "doc_persona": "0968599020001",
+  "id": "131",
+  "fecha": "06/02/2014",
+  "numero_proceso": "09332201425779",
+  "accion_infraccion": "NULIDAD DE INSTRUMENTO PUBLICO O PRIVADO ART. 1697 C.C."
+},
+{
+  "_id": {
+    "$oid": "667764a1b985e12c7394e1d6"
+  },
+  "doc_persona": "0968599020001",
+  "id": "132",
+  "fecha": "28/01/2014",
+  "numero_proceso": "09332201419336",
+  "accion_infraccion": "EXPROPIACIÓN"
+},
+{
+  "_id": {
+    "$oid": "667764a1b985e12c7394e1d7"
+  },
+  "doc_persona": "0968599020001",
+  "id": "133",
+  "fecha": "27/01/2014",
+  "numero_proceso": "09332201418522",
+  "accion_infraccion": "EXPROPIACIÓN"
+},
+{
+  "_id": {
+    "$oid": "667764a2b985e12c7394e1d8"
+  },
+  "doc_persona": "0968599020001",
+  "id": "134",
+  "fecha": "21/01/2014",
+  "numero_proceso": "09332201414034",
+  "accion_infraccion": "EXPROPIACION ART. 781 CP.C., ART. 852 C.C."
+},
+{
+  "_id": {
+    "$oid": "667764a2b985e12c7394e1d9"
+  },
+  "doc_persona": "0968599020001",
+  "id": "135",
+  "fecha": "20/01/2014",
+  "numero_proceso": "09332201413210",
+  "accion_infraccion": "EXPROPIACIÓN"
+},
+{
+  "_id": {
+    "$oid": "667764a2b985e12c7394e1da"
+  },
+  "doc_persona": "0968599020001",
+  "id": "136",
+  "fecha": "15/01/2014",
+  "numero_proceso": "09332201411512",
+  "accion_infraccion": "ASUNTOS DE COMERCIO QUE NO TIENEN TRAMITE ESPECIAL ART. 828 C.P.C"
+},
+{
+  "_id": {
+    "$oid": "667764a2b985e12c7394e1db"
+  },
+  "doc_persona": "0968599020001",
+  "id": "137",
+  "fecha": "07/01/2014",
+  "numero_proceso": "0933220144801",
+  "accion_infraccion": "EXPROPIACIÓN"
+},
+{
+  "_id": {
+    "$oid": "667764a2b985e12c7394e1dc"
+  },
+  "doc_persona": "0968599020001",
+  "id": "138",
+  "fecha": "29/07/2013",
+  "numero_proceso": "0950420130072",
+  "accion_infraccion": "RESOLUCIONES"
+},
+{
+  "_id": {
+    "$oid": "667764a2b985e12c7394e1dd"
+  },
+  "doc_persona": "0968599020001",
+  "id": "139",
+  "fecha": "18/11/2011",
+  "numero_proceso": "0950120110155",
+  "accion_infraccion": "TRIBUTARIO"
+},
+{
+  "_id": {
+    "$oid": "667764a2b985e12c7394e1de"
+  },
+  "doc_persona": "0968599020001",
+  "id": "140",
+  "fecha": "11/02/2009",
+  "numero_proceso": "0950220090823",
+  "accion_infraccion": "ACCION DIRECTA"
+},
+{
+  "_id": {
+    "$oid": "667764b4b985e12c7394e1df"
+  },
+  "doc_persona": "0968599020001",
+  "id": "141",
+  "fecha": "01/01/2009",
+  "numero_proceso": "0950320090431",
+  "accion_infraccion": "RESOLUCIONES"
+},
+{
+  "_id": {
+    "$oid": "667764b4b985e12c7394e1e0"
+  },
+  "doc_persona": "0968599020001",
+  "id": "142",
+  "fecha": "29/02/2008",
+  "numero_proceso": "0930420080150",
+  "accion_infraccion": "INCUMPLIMIENTO DE CONTRATO"
+},
+{
+  "_id": {
+    "$oid": "667764b4b985e12c7394e1e1"
+  },
+  "doc_persona": "0968599020001",
+  "id": "143",
+  "fecha": "07/02/2008",
+  "numero_proceso": "0930620070369",
+  "accion_infraccion": "COBRO DE DINERO"
+},
+{
+  "_id": {
+    "$oid": "667764b4b985e12c7394e1e2"
+  },
+  "doc_persona": "0968599020001",
+  "id": "144",
+  "fecha": "28/04/2006",
+  "numero_proceso": "0930420060269",
+  "accion_infraccion": "CONFLICTOS ENTRE ARRENDADOR Y ARRENDATARIO"
+}]

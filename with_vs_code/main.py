@@ -53,7 +53,7 @@ def perform_query(codigo,type_process):
 
 
         #   Se obtienen todos los procesos y se envian a la base de datos en mongodb
-        obtain_all_process(limit, driver)
+        obtain_all_process(limit, driver, codigo)
 
         #   Se retorna a la vista inicial
         boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")

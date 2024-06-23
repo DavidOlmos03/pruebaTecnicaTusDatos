@@ -1,0 +1,2510 @@
+[{
+  "_id": {
+    "$oid": "66776449d1264f907172029c"
+  },
+  "id": "1",
+  "numero_proceso": "09332202315769",
+  "fecha": "14/09/2023 11:04",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Abadie Aguilera Fausto David",
+  "demandados_procesados": "Rockvit S.a., Ramirez Nouel Humberto Jose, Zenck Alfaro Federico Xavier"
+},
+{
+  "_id": {
+    "$oid": "66776463d1264f907172029d"
+  },
+  "id": "1",
+  "numero_proceso": "09332202311766",
+  "fecha": "11/07/2023 16:36",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Compañía General De Comercio Y Mandato Sociedad Anónima, Representada Por El Señor Ricardo Gabriel Echeverría Ycaza"
+},
+{
+  "_id": {
+    "$oid": "6677647fd1264f907172029e"
+  },
+  "id": "1",
+  "numero_proceso": "09332202211555",
+  "fecha": "29/11/2023 08:09",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Lopez Quezada Tanya Elizabeth",
+  "demandados_procesados": "Fitnesshr S.a En La Persona Del Sr. Humberto Jose Ramirez Nouel, Fitnesshr S.a., Rockvit S.a., Ramirez Nouel Humberto Jose, Zenck Alfaro Federico Xavier"
+},
+{
+  "_id": {
+    "$oid": "6677647fd1264f907172029f"
+  },
+  "id": "1",
+  "numero_proceso": "09332202211555",
+  "fecha": "03/08/2022 15:07",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Lopez Quezada Tanya Elizabeth",
+  "demandados_procesados": "Fitnesshr S.a En La Persona Del Sr. Humberto Jose Ramirez Nouel, Fitnesshr S.a., Rockvit S.a., Ramirez Nouel Humberto Jose, Zenck Alfaro Federico Xavier"
+},
+{
+  "_id": {
+    "$oid": "66776497d1264f90717202a0"
+  },
+  "id": "1",
+  "numero_proceso": "09332202210851",
+  "fecha": "03/07/2023 16:08",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Lopez Quezada Tanya Elizabeth",
+  "demandados_procesados": "Compañia Rockvit S.a. En La Persona De Federico Xavier Zenk Alfaro En Su Calidad De Gerente General, Compañia Fitnesshr S.a. En La Persona De Humberto José Ramirez Nouel, En Calidad De Gerente General, Ramirez Nouel Humberto Jose, Rockvit S.a, Fitnesshr S.a., Zenck Alfaro Federico Xavier"
+},
+{
+  "_id": {
+    "$oid": "66776498d1264f90717202a1"
+  },
+  "id": "1",
+  "numero_proceso": "09332202210851",
+  "fecha": "26/07/2022 08:38",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Lopez Quezada Tanya Elizabeth",
+  "demandados_procesados": "Compañia Rockvit S.a. En La Persona De Federico Xavier Zenk Alfaro En Su Calidad De Gerente General, Compañia Fitnesshr S.a. En La Persona De Humberto José Ramirez Nouel, En Calidad De Gerente General, Ramirez Nouel Humberto Jose, Rockvit S.a, Fitnesshr S.a., Zenck Alfaro Federico Xavier"
+},
+{
+  "_id": {
+    "$oid": "667764b2d1264f90717202a2"
+  },
+  "id": "1",
+  "numero_proceso": "09286202202415G",
+  "fecha": "06/05/2022 11:14",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667764ced1264f90717202a3"
+  },
+  "id": "1",
+  "numero_proceso": "09332202111494",
+  "fecha": "07/09/2021 10:16",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "La Compañía Rockvit S.a., En Calidad De Arrendataria, En La Interpuesta Persona De Su Gerente General, El Señor Federico Xavier Zenck Alfaro., La Compañía Fitnesshr S.a., En Calidad De Garante Solidario, En La Interpuesta Persona De Su Gerente General, El Señor Humberto José Ramirez Nouel."
+},
+{
+  "_id": {
+    "$oid": "667764e1b985e12c7394e1e3"
+  },
+  "id": "1",
+  "numero_proceso": "13284202419612",
+  "fecha": "07/06/2024 19:02",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables (Arcernnr), En La Persona Del Director Ejecutivo Juan Carlos Herrrera Heredia"
+},
+{
+  "_id": {
+    "$oid": "667764e9d1264f90717202a4"
+  },
+  "id": "1",
+  "numero_proceso": "09332202107378",
+  "fecha": "18/06/2021 09:05",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Leon Fernandez Justo Felipe, Troya Zambrano Yadira Liliana"
+},
+{
+  "_id": {
+    "$oid": "667764fab985e12c7394e1e4"
+  },
+  "id": "1",
+  "numero_proceso": "12282202406107",
+  "fecha": "19/03/2024 20:30",
+  "actores_ofendidos": "Fiscalia General Del Estado, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Vera Rodriguez Angel Manuel"
+},
+{
+  "_id": {
+    "$oid": "66776503d1264f90717202a5"
+  },
+  "id": "1",
+  "numero_proceso": "07333202100569",
+  "fecha": "16/03/2021 11:22",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Encalada Valarezo Hector Ubaldo"
+},
+{
+  "_id": {
+    "$oid": "66776515b985e12c7394e1e5"
+  },
+  "id": "1",
+  "numero_proceso": "08332202400176",
+  "fecha": "06/03/2024 16:13",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "6677651dd1264f90717202a6"
+  },
+  "id": "1",
+  "numero_proceso": "09332202009600",
+  "fecha": "05/11/2020 16:24",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Supergenial S.a., Lorences Vargas Juan Alfonso"
+},
+{
+  "_id": {
+    "$oid": "6677651dd1264f90717202a7"
+  },
+  "id": "2",
+  "numero_proceso": "09332202009600",
+  "fecha": "27/08/2021 12:47",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Supergenial S.a., Lorences Vargas Juan Alfonso"
+},
+{
+  "_id": {
+    "$oid": "66776532b985e12c7394e1e6"
+  },
+  "id": "1",
+  "numero_proceso": "13284202406765",
+  "fecha": "29/02/2024 10:43",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776537d1264f90717202a8"
+  },
+  "id": "1",
+  "numero_proceso": "09332202006026",
+  "fecha": "20/08/2020 11:48",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Compañía Rockvit S.a., En Calidad De Arrendataria, Compañía Representada Por Su Gerente General Señor Federico Xavier Zenk Alfaro, Compañía Fitnesshr S.a. Representada Por El Señor Humberto Jose Ramirez Nouel En Calidad De Gerente General, Rockvit S.a."
+},
+{
+  "_id": {
+    "$oid": "6677654eb985e12c7394e1e7"
+  },
+  "id": "1",
+  "numero_proceso": "13284202406764",
+  "fecha": "29/02/2024 10:40",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776553d1264f90717202a9"
+  },
+  "id": "1",
+  "numero_proceso": "09332202001746",
+  "fecha": "17/02/2020 09:53",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Carlos Eustorgio Coello Mayea"
+},
+{
+  "_id": {
+    "$oid": "66776569b985e12c7394e1e8"
+  },
+  "id": "1",
+  "numero_proceso": "13284202406763",
+  "fecha": "29/02/2024 10:38",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "6677656cd1264f90717202aa"
+  },
+  "id": "1",
+  "numero_proceso": "09332202001744",
+  "fecha": "17/02/2020 09:48",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Mercedes Nancy Pavòn Muñoz"
+},
+{
+  "_id": {
+    "$oid": "66776583b985e12c7394e1e9"
+  },
+  "id": "1",
+  "numero_proceso": "17811202302644",
+  "fecha": "21/12/2023 13:33",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Wilches Tacuri Ligia Mercedes"
+},
+{
+  "_id": {
+    "$oid": "66776587d1264f90717202ab"
+  },
+  "id": "1",
+  "numero_proceso": "09332202001743",
+  "fecha": "18/07/2022 12:44",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Glenda Patricia Jaramillo Chacon"
+},
+{
+  "_id": {
+    "$oid": "66776588d1264f90717202ac"
+  },
+  "id": "1",
+  "numero_proceso": "09332202001743",
+  "fecha": "17/02/2020 09:42",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Glenda Patricia Jaramillo Chacon"
+},
+{
+  "_id": {
+    "$oid": "6677659eb985e12c7394e1ea"
+  },
+  "id": "1",
+  "numero_proceso": "09802202301613",
+  "fecha": "30/11/2023 11:42",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado., Mgs. Milena Charfuelan Burbano En Calidad De Subdirectora General Del Iess, O Quien Haga Sus Veces., Lic. Diego Salgado Ribadeneira En Calidad De Director General Del Iess, O Quien Haga Sus Veces., Instituto Ecuatoriano De Seguridad Social Direccion General Guayaquil"
+},
+{
+  "_id": {
+    "$oid": "667765a4d1264f90717202ad"
+  },
+  "id": "1",
+  "numero_proceso": "09332201904039",
+  "fecha": "02/04/2019 12:06",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Lopez Quezada Tanya Elizabeth",
+  "demandados_procesados": "Ponce Mora Wilfrido Blas, Merchan Domenech Norma Celeste"
+},
+{
+  "_id": {
+    "$oid": "667765b7b985e12c7394e1eb"
+  },
+  "id": "1",
+  "numero_proceso": "09332202318810",
+  "fecha": "08/11/2023 10:49",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Seguros Sucre S.a"
+},
+{
+  "_id": {
+    "$oid": "667765bfd1264f90717202ae"
+  },
+  "id": "1",
+  "numero_proceso": "09332201904038",
+  "fecha": "02/04/2019 11:55",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Lopez Quezada Tanya Elizabeth",
+  "demandados_procesados": "Flor Carvajal Veronica Petita, Merchan Domenech Norma Celeste"
+},
+{
+  "_id": {
+    "$oid": "667765d0b985e12c7394e1ec"
+  },
+  "id": "1",
+  "numero_proceso": "17811202301639",
+  "fecha": "17/08/2023 16:21",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Almaroselec S.a."
+},
+{
+  "_id": {
+    "$oid": "667765d6d1264f90717202af"
+  },
+  "id": "1",
+  "numero_proceso": "09332201904036",
+  "fecha": "02/04/2019 11:43",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Lopez Quezada Tanya Elizabeth",
+  "demandados_procesados": "Velez Gina Solanda, Morocho Parrales Alfredo Vicente, Nixon Jouvin Moreira Sevillano"
+},
+{
+  "_id": {
+    "$oid": "667765ebb985e12c7394e1ed"
+  },
+  "id": "1",
+  "numero_proceso": "17811202301392",
+  "fecha": "02/08/2023 15:33",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Almaroselec S.a."
+},
+{
+  "_id": {
+    "$oid": "667765ebb985e12c7394e1ee"
+  },
+  "id": "1",
+  "numero_proceso": "17811202301392",
+  "fecha": "05/07/2023 13:04",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Almaroselec S.a."
+},
+{
+  "_id": {
+    "$oid": "667765f1d1264f90717202b0"
+  },
+  "id": "1",
+  "numero_proceso": "09332201904031",
+  "fecha": "02/04/2019 11:16",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Conteron Banda Gerardo Simon"
+},
+{
+  "_id": {
+    "$oid": "667765f2d1264f90717202b1"
+  },
+  "id": "2",
+  "numero_proceso": "09332201904031",
+  "fecha": "15/05/2019 15:45",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Conteron Banda Gerardo Simon"
+},
+{
+  "_id": {
+    "$oid": "66776604b985e12c7394e1ef"
+  },
+  "id": "1",
+  "numero_proceso": "09802202300293",
+  "fecha": "09/03/2023 15:59",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado, Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables (Arcernnr)"
+},
+{
+  "_id": {
+    "$oid": "6677660cd1264f90717202b2"
+  },
+  "id": "2",
+  "numero_proceso": "09332201812430",
+  "fecha": "11/08/2020 11:43",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Ana Luisa Andrade Vargas, Gordillo Cabanilla Kleber Antonio"
+},
+{
+  "_id": {
+    "$oid": "6677660cd1264f90717202b3"
+  },
+  "id": "1",
+  "numero_proceso": "09332201812430",
+  "fecha": "14/11/2018 16:20",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Ana Luisa Andrade Vargas, Gordillo Cabanilla Kleber Antonio"
+},
+{
+  "_id": {
+    "$oid": "6677661eb985e12c7394e1f0"
+  },
+  "id": "1",
+  "numero_proceso": "23303202300098G",
+  "fecha": "03/02/2023 08:53",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Fiscalia General Del Estado",
+  "demandados_procesados": "Garzon Pazmiño Yolanda Brissette"
+},
+{
+  "_id": {
+    "$oid": "66776627d1264f90717202b4"
+  },
+  "id": "1",
+  "numero_proceso": "09332201812428",
+  "fecha": "14/11/2018 16:14",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Cevallos Cedeño Francisco Dolores"
+},
+{
+  "_id": {
+    "$oid": "66776635b985e12c7394e1f1"
+  },
+  "id": "1",
+  "numero_proceso": "13802202300007",
+  "fecha": "10/01/2023 09:01",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Procurador General Del Estado",
+  "demandados_procesados": "Gerente General Y Representante Legal De La Empresa Procitel S.a."
+},
+{
+  "_id": {
+    "$oid": "66776636b985e12c7394e1f2"
+  },
+  "id": "1",
+  "numero_proceso": "13802202300007",
+  "fecha": "29/05/2023 09:49",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Procurador General Del Estado",
+  "demandados_procesados": "Gerente General Y Representante Legal De La Empresa Procitel S.a."
+},
+{
+  "_id": {
+    "$oid": "66776640d1264f90717202b5"
+  },
+  "id": "1",
+  "numero_proceso": "09332201812427",
+  "fecha": "14/11/2018 16:09",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Lascano Catagua Hilario Marobio"
+},
+{
+  "_id": {
+    "$oid": "66776652b985e12c7394e1f3"
+  },
+  "id": "1",
+  "numero_proceso": "13337202300012",
+  "fecha": "09/01/2023 16:18",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Posligua Quijije Pedro Orlando"
+},
+{
+  "_id": {
+    "$oid": "6677665bd1264f90717202b6"
+  },
+  "id": "1",
+  "numero_proceso": "09332201812426",
+  "fecha": "14/11/2018 16:03",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Villacis Villacres Renato, Mejia Bazurto Milta Domitila"
+},
+{
+  "_id": {
+    "$oid": "6677665bd1264f90717202b7"
+  },
+  "id": "2",
+  "numero_proceso": "09332201812426",
+  "fecha": "28/02/2019 08:28",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Villacis Villacres Renato, Mejia Bazurto Milta Domitila"
+},
+{
+  "_id": {
+    "$oid": "6677666bb985e12c7394e1f4"
+  },
+  "id": "1",
+  "numero_proceso": "13284202221340",
+  "fecha": "14/12/2022 10:28",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776675d1264f90717202b8"
+  },
+  "id": "1",
+  "numero_proceso": "09332201812425",
+  "fecha": "14/11/2018 15:52",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Lorena Alexandra Estupinan Ruiz"
+},
+{
+  "_id": {
+    "$oid": "66776687b985e12c7394e1f5"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202139",
+  "fecha": "09/12/2022 08:38",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Sanchez Ricaurte Ricardo Vicente"
+},
+{
+  "_id": {
+    "$oid": "6677668fd1264f90717202b9"
+  },
+  "id": "1",
+  "numero_proceso": "09332201812424",
+  "fecha": "14/11/2018 15:47",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Muñoz Ortiz Gisela Patricia, Castillo Ochoa Luis Enrique"
+},
+{
+  "_id": {
+    "$oid": "667766a2b985e12c7394e1f6"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202138",
+  "fecha": "09/12/2022 08:26",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Rodriguez Pico Klever Giuberto"
+},
+{
+  "_id": {
+    "$oid": "667766aad1264f90717202ba"
+  },
+  "id": "1",
+  "numero_proceso": "09332201812423",
+  "fecha": "14/11/2018 15:41",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Veliz Mendoza Luis Orlando, Castro Abad Yolanda Pilar"
+},
+{
+  "_id": {
+    "$oid": "667766bab985e12c7394e1f7"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202137",
+  "fecha": "08/12/2022 16:14",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Trejos Chavez Jessica Maria"
+},
+{
+  "_id": {
+    "$oid": "667766c4d1264f90717202bb"
+  },
+  "id": "1",
+  "numero_proceso": "09332201808761",
+  "fecha": "13/08/2018 17:03",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Perez Manzaba Silvia Catherine, Lara Alvarado Carlos Alberto"
+},
+{
+  "_id": {
+    "$oid": "667766d5b985e12c7394e1f8"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202136",
+  "fecha": "08/12/2022 16:03",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Vera Rodriguez Georgina Severita"
+},
+{
+  "_id": {
+    "$oid": "667766dfd1264f90717202bc"
+  },
+  "id": "3",
+  "numero_proceso": "09332201808758",
+  "fecha": "14/12/2019 11:58",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Noboa Sellan Herlinda Maritza, Calero Salazar Tirso"
+},
+{
+  "_id": {
+    "$oid": "667766dfd1264f90717202bd"
+  },
+  "id": "2",
+  "numero_proceso": "09332201808758",
+  "fecha": "23/01/2019 17:26",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Noboa Sellan Herlinda Maritza, Calero Salazar Tirso"
+},
+{
+  "_id": {
+    "$oid": "667766dfd1264f90717202be"
+  },
+  "id": "1",
+  "numero_proceso": "09332201808758",
+  "fecha": "13/08/2018 16:58",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Noboa Sellan Herlinda Maritza, Calero Salazar Tirso"
+},
+{
+  "_id": {
+    "$oid": "667766eeb985e12c7394e1f9"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202135",
+  "fecha": "08/12/2022 15:41",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Alcivar Pico Jose Vicente"
+},
+{
+  "_id": {
+    "$oid": "667766fbd1264f90717202bf"
+  },
+  "id": "1",
+  "numero_proceso": "09332201806299",
+  "fecha": "19/06/2018 16:19",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Quiñonez Valencia Ely Justina, Mora Quiñonez Miguel Angel"
+},
+{
+  "_id": {
+    "$oid": "667766fbd1264f90717202c0"
+  },
+  "id": "2",
+  "numero_proceso": "09332201806299",
+  "fecha": "19/11/2018 17:30",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Quiñonez Valencia Ely Justina, Mora Quiñonez Miguel Angel"
+},
+{
+  "_id": {
+    "$oid": "667766fbd1264f90717202c1"
+  },
+  "id": "2",
+  "numero_proceso": "09332201806299",
+  "fecha": "14/06/2019 20:08",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Quiñonez Valencia Ely Justina, Mora Quiñonez Miguel Angel"
+},
+{
+  "_id": {
+    "$oid": "667766fcd1264f90717202c2"
+  },
+  "id": "2",
+  "numero_proceso": "09332201806299",
+  "fecha": "08/02/2020 16:31",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Quiñonez Valencia Ely Justina, Mora Quiñonez Miguel Angel"
+},
+{
+  "_id": {
+    "$oid": "66776707b985e12c7394e1fa"
+  },
+  "id": "1",
+  "numero_proceso": "13337202202134",
+  "fecha": "08/12/2022 14:57",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Torres Romero Solanda Margarita"
+},
+{
+  "_id": {
+    "$oid": "66776715d1264f90717202c3"
+  },
+  "id": "2",
+  "numero_proceso": "09332201806174",
+  "fecha": "19/02/2019 11:22",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Solorzano Arias Emilio Enrique, Provialit S.a. Proyectos Viales Del Litoral, Pinos Gonzalez Adriana De La Nube, Vanegas Bernal Cornelio Alexander, Chalen Crespin Rita Melva"
+},
+{
+  "_id": {
+    "$oid": "66776715d1264f90717202c4"
+  },
+  "id": "3",
+  "numero_proceso": "09332201806174",
+  "fecha": "29/10/2019 15:26",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Solorzano Arias Emilio Enrique, Provialit S.a. Proyectos Viales Del Litoral, Pinos Gonzalez Adriana De La Nube, Vanegas Bernal Cornelio Alexander, Chalen Crespin Rita Melva"
+},
+{
+  "_id": {
+    "$oid": "66776715d1264f90717202c5"
+  },
+  "id": "1",
+  "numero_proceso": "09332201806174",
+  "fecha": "15/06/2018 08:54",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Solorzano Arias Emilio Enrique, Provialit S.a. Proyectos Viales Del Litoral, Pinos Gonzalez Adriana De La Nube, Vanegas Bernal Cornelio Alexander, Chalen Crespin Rita Melva"
+},
+{
+  "_id": {
+    "$oid": "66776715d1264f90717202c6"
+  },
+  "id": "3",
+  "numero_proceso": "09332201806174",
+  "fecha": "19/02/2019 11:26",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Solorzano Arias Emilio Enrique, Provialit S.a. Proyectos Viales Del Litoral, Pinos Gonzalez Adriana De La Nube, Vanegas Bernal Cornelio Alexander, Chalen Crespin Rita Melva"
+},
+{
+  "_id": {
+    "$oid": "66776720b985e12c7394e1fb"
+  },
+  "id": "1",
+  "numero_proceso": "13284202219881",
+  "fecha": "23/11/2022 11:54",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Viteri Ramirez Mario Andres",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776730d1264f90717202c7"
+  },
+  "id": "1",
+  "numero_proceso": "09332201806173",
+  "fecha": "15/06/2018 08:43",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Ronquillo Gordillo Francisco Javier, Marcantonini Scardazza Garcia Cia. Ltda."
+},
+{
+  "_id": {
+    "$oid": "66776730d1264f90717202c8"
+  },
+  "id": "2",
+  "numero_proceso": "09332201806173",
+  "fecha": "06/09/2018 09:31",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "La Compañia Marcantonini Scardazza Garcia Cia. Ltda Representada Por Su Gerente General Javier Manuel Ronquillo En Calidad De Deudor Principal, Francisco Javier Ronquillo Gordillo En Calidad De Garante Solidario"
+},
+{
+  "_id": {
+    "$oid": "6677673ab985e12c7394e1fc"
+  },
+  "id": "1",
+  "numero_proceso": "18803202200457",
+  "fecha": "02/11/2022 09:24",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Director Regional De La Procuraduría General Del Estado-loja, Ing. Victor Manuel Palacios Jimenez"
+},
+{
+  "_id": {
+    "$oid": "6677673ab985e12c7394e1fd"
+  },
+  "id": "1",
+  "numero_proceso": "18803202200457",
+  "fecha": "07/10/2022 14:19",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Director Regional De La Procuraduría General Del Estado-loja, Ing. Victor Manuel Palacios Jimenez"
+},
+{
+  "_id": {
+    "$oid": "6677674ad1264f90717202c9"
+  },
+  "id": "2",
+  "numero_proceso": "09332201806171",
+  "fecha": "21/06/2018 09:16",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Banchon Crespin Maura Del Rosario, Banchon Crespin Jorge Guillermo"
+},
+{
+  "_id": {
+    "$oid": "6677674bd1264f90717202ca"
+  },
+  "id": "3",
+  "numero_proceso": "09332201806171",
+  "fecha": "18/10/2018 20:57",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Banchon Crespin Maura Del Rosario, Banchon Crespin Jorge Guillermo"
+},
+{
+  "_id": {
+    "$oid": "6677674bd1264f90717202cb"
+  },
+  "id": "1",
+  "numero_proceso": "09332201806171",
+  "fecha": "15/06/2018 08:36",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Banchon Crespin Maura Del Rosario, Banchon Crespin Jorge Guillermo"
+},
+{
+  "_id": {
+    "$oid": "66776754b985e12c7394e1fe"
+  },
+  "id": "1",
+  "numero_proceso": "13802202200437",
+  "fecha": "15/09/2022 15:11",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado, A Través De Su Director Regional De La Procuraduría General Del Estado En Manabí, O Quien Haga Sus Veces., Cedeño Delgado Cesar Stalin"
+},
+{
+  "_id": {
+    "$oid": "66776764d1264f90717202cc"
+  },
+  "id": "1",
+  "numero_proceso": "09332201806170",
+  "fecha": "15/06/2018 08:31",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Olivo Espinoza Victor Gustavo, Briones Burgos Leonardo Javier"
+},
+{
+  "_id": {
+    "$oid": "66776764d1264f90717202cd"
+  },
+  "id": "2",
+  "numero_proceso": "09332201806170",
+  "fecha": "21/08/2018 16:04",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Olivo Espinoza Victor Gustavo, Briones Burgos Leonardo Javier"
+},
+{
+  "_id": {
+    "$oid": "6677676db985e12c7394e1ff"
+  },
+  "id": "1",
+  "numero_proceso": "23281202203746",
+  "fecha": "03/08/2022 10:57",
+  "actores_ofendidos": "Tapia Torres Albaro Augusto, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Fiscalia General Del Estado",
+  "demandados_procesados": "Aguilar Vega Wilson Bolivar"
+},
+{
+  "_id": {
+    "$oid": "6677677cd1264f90717202ce"
+  },
+  "id": "1",
+  "numero_proceso": "09332201805904",
+  "fecha": "11/06/2018 08:33",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Moreira Solorzano Regis Patricio, Macias Rendon Fatima Caroly"
+},
+{
+  "_id": {
+    "$oid": "6677677dd1264f90717202cf"
+  },
+  "id": "2",
+  "numero_proceso": "09332201805904",
+  "fecha": "23/07/2018 11:40",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Moreira Solorzano Regis Patricio, Macias Rendon Fatima Caroly"
+},
+{
+  "_id": {
+    "$oid": "66776787b985e12c7394e200"
+  },
+  "id": "1",
+  "numero_proceso": "09802202200924",
+  "fecha": "02/08/2022 09:26",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procuraduria General Del Estado.-, Cia. Seguros Sucre S.a. En Liquidacion"
+},
+{
+  "_id": {
+    "$oid": "66776798d1264f90717202d0"
+  },
+  "id": "4",
+  "numero_proceso": "09332201804546",
+  "fecha": "14/03/2019 14:39",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Solorzano Carreño Nieve Liliana, Rojas Solorzano Cecilia Isabel"
+},
+{
+  "_id": {
+    "$oid": "66776798d1264f90717202d1"
+  },
+  "id": "1",
+  "numero_proceso": "09332201804546",
+  "fecha": "07/05/2018 08:50",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Solorzano Carreño Nieve Liliana, Rojas Solorzano Cecilia Isabel"
+},
+{
+  "_id": {
+    "$oid": "66776798d1264f90717202d2"
+  },
+  "id": "2",
+  "numero_proceso": "09332201804546",
+  "fecha": "11/09/2018 16:47",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Solorzano Carreño Nieve Liliana, Rojas Solorzano Cecilia Isabel"
+},
+{
+  "_id": {
+    "$oid": "66776798d1264f90717202d3"
+  },
+  "id": "3",
+  "numero_proceso": "09332201804546",
+  "fecha": "14/03/2019 14:32",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Solorzano Carreño Nieve Liliana, Rojas Solorzano Cecilia Isabel"
+},
+{
+  "_id": {
+    "$oid": "667767a4b985e12c7394e201"
+  },
+  "id": "1",
+  "numero_proceso": "23281202203414G",
+  "fecha": "29/06/2022 09:47",
+  "actores_ofendidos": "Ing. Rodrigo Froilan Sola Pazmiño, Fiscalia General Del Estado, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Dace."
+},
+{
+  "_id": {
+    "$oid": "667767b2d1264f90717202d4"
+  },
+  "id": "2",
+  "numero_proceso": "09332201803660",
+  "fecha": "13/09/2018 11:50",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Balcazar Merelo Silvia Esperanza, Noblecilla Suarez Jose Enrique"
+},
+{
+  "_id": {
+    "$oid": "667767b3d1264f90717202d5"
+  },
+  "id": "1",
+  "numero_proceso": "09332201803660",
+  "fecha": "10/04/2018 15:46",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Balcazar Merelo Silvia Esperanza, Noblecilla Suarez Jose Enrique"
+},
+{
+  "_id": {
+    "$oid": "667767bfb985e12c7394e202"
+  },
+  "id": "1",
+  "numero_proceso": "09201202201814",
+  "fecha": "26/05/2022 09:42",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables"
+},
+{
+  "_id": {
+    "$oid": "667767bfb985e12c7394e203"
+  },
+  "id": "1",
+  "numero_proceso": "09201202201814",
+  "fecha": "30/12/2022 11:07",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables"
+},
+{
+  "_id": {
+    "$oid": "667767bfb985e12c7394e204"
+  },
+  "id": "2",
+  "numero_proceso": "09201202201814",
+  "fecha": "02/06/2022 14:30",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables"
+},
+{
+  "_id": {
+    "$oid": "667767bfb985e12c7394e205"
+  },
+  "id": "1",
+  "numero_proceso": "09201202201814",
+  "fecha": "05/10/2022 19:27",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Agencia De Regulacion Y Control De Energia Y Recursos Naturales No Renovables"
+},
+{
+  "_id": {
+    "$oid": "667767cfd1264f90717202d6"
+  },
+  "id": "1",
+  "numero_proceso": "09332201803659",
+  "fecha": "10/04/2018 15:42",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Palacios Mejia Israel Alejandro, Jaramillo Chacon Glenda Patricia"
+},
+{
+  "_id": {
+    "$oid": "667767d7b985e12c7394e206"
+  },
+  "id": "1",
+  "numero_proceso": "13802202200194",
+  "fecha": "22/04/2022 14:46",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "A La Procuraduría General Del Estado, A Través Del Abg. Franklin Adriano Zambrano Loor, Director Regional De La Procuraduría General Del Estado En Manabí O Quien Haga Sus Veces, Compañía Constructora Electrica Y Mecanica S.a. Ceym, A Través Del Ing. Juan Antonio Zúñiga Fajardo, En Su Calidad De Gerente General Y Representante Legal, Ceym, Compañia Electrica Y Mecanica S.a."
+},
+{
+  "_id": {
+    "$oid": "667767d8b985e12c7394e207"
+  },
+  "id": "2",
+  "numero_proceso": "13802202200194",
+  "fecha": "25/08/2022 14:09",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "A La Procuraduría General Del Estado, A Través Del Abg. Franklin Adriano Zambrano Loor, Director Regional De La Procuraduría General Del Estado En Manabí O Quien Haga Sus Veces, Compañía Constructora Electrica Y Mecanica S.a. Ceym, A Través Del Ing. Juan Antonio Zúñiga Fajardo, En Su Calidad De Gerente General Y Representante Legal, Ceym, Compañia Electrica Y Mecanica S.a."
+},
+{
+  "_id": {
+    "$oid": "667767ebd1264f90717202d7"
+  },
+  "id": "1",
+  "numero_proceso": "09332201803658",
+  "fecha": "10/04/2018 15:36",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Ramos Gavidia Gloria Amada, Arteaga Ramos Edwin Javier"
+},
+{
+  "_id": {
+    "$oid": "667767ebd1264f90717202d8"
+  },
+  "id": "2",
+  "numero_proceso": "09332201803658",
+  "fecha": "11/09/2018 16:39",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Ramos Gavidia Gloria Amada, Arteaga Ramos Edwin Javier"
+},
+{
+  "_id": {
+    "$oid": "667767f0b985e12c7394e208"
+  },
+  "id": "1",
+  "numero_proceso": "02331202200123",
+  "fecha": "11/02/2022 12:46",
+  "actores_ofendidos": "Medina Pita Franklin Oswaldo, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Naranjo Campoverde Victor Patricio"
+},
+{
+  "_id": {
+    "$oid": "66776807d1264f90717202d9"
+  },
+  "id": "2",
+  "numero_proceso": "09332201803657",
+  "fecha": "09/07/2018 08:50",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Arroyo Muñoz Beatriz Alexandra, Vargas Campana Marco Andres"
+},
+{
+  "_id": {
+    "$oid": "66776808d1264f90717202da"
+  },
+  "id": "3",
+  "numero_proceso": "09332201803657",
+  "fecha": "21/12/2018 14:19",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Arroyo Muñoz Beatriz Alexandra, Vargas Campana Marco Andres"
+},
+{
+  "_id": {
+    "$oid": "66776808d1264f90717202db"
+  },
+  "id": "1",
+  "numero_proceso": "09332201803657",
+  "fecha": "10/04/2018 15:31",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Arroyo Muñoz Beatriz Alexandra, Vargas Campana Marco Andres"
+},
+{
+  "_id": {
+    "$oid": "6677680ab985e12c7394e209"
+  },
+  "id": "1",
+  "numero_proceso": "09802202200154",
+  "fecha": "04/02/2022 10:42",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Villacres Pilco Lucio Homero"
+},
+{
+  "_id": {
+    "$oid": "66776823d1264f90717202dc"
+  },
+  "id": "1",
+  "numero_proceso": "09332201803640",
+  "fecha": "10/04/2018 08:42",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Andrade Moncayo Mercedes Jaqueline, Cedeño Garcia Manuel Ivan"
+},
+{
+  "_id": {
+    "$oid": "66776823d1264f90717202dd"
+  },
+  "id": "2",
+  "numero_proceso": "09332201803640",
+  "fecha": "14/06/2018 11:38",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Andrade Moncayo Mercedes Jaqueline, Cedeño Garcia Manuel Ivan"
+},
+{
+  "_id": {
+    "$oid": "66776826b985e12c7394e20a"
+  },
+  "id": "1",
+  "numero_proceso": "02331202200019",
+  "fecha": "11/01/2022 15:43",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Naranjo Campoverde Victor Patricio"
+},
+{
+  "_id": {
+    "$oid": "6677683dd1264f90717202de"
+  },
+  "id": "1",
+  "numero_proceso": "09332201803329",
+  "fecha": "02/04/2018 16:23",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Supergenial S.a., Lorences Vargas Juan Alfonso"
+},
+{
+  "_id": {
+    "$oid": "6677683dd1264f90717202df"
+  },
+  "id": "2",
+  "numero_proceso": "09332201803329",
+  "fecha": "19/07/2018 09:18",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Supergenial S.a., Lorences Vargas Juan Alfonso"
+},
+{
+  "_id": {
+    "$oid": "66776840b985e12c7394e20b"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112783",
+  "fecha": "20/12/2021 10:22",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776857d1264f90717202e0"
+  },
+  "id": "1",
+  "numero_proceso": "09332201802525",
+  "fecha": "08/07/2019 11:35",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Lopez Quezada Tanya Elizabeth",
+  "demandados_procesados": "Jorge Washington Lok Chan Y Mejia Coca Natividad Nelly, Mejia Coca Natividad Nelly, Lok Chan Jorge Washington"
+},
+{
+  "_id": {
+    "$oid": "66776857d1264f90717202e1"
+  },
+  "id": "3",
+  "numero_proceso": "09332201802525",
+  "fecha": "03/08/2020 10:18",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Mejia Coca Natividad Nelly, Lok Chan Jorge Washington"
+},
+{
+  "_id": {
+    "$oid": "66776858d1264f90717202e2"
+  },
+  "id": "1",
+  "numero_proceso": "09332201802525",
+  "fecha": "13/03/2018 14:33",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Mejia Coca Natividad Nelly, Lok Chan Jorge Washington"
+},
+{
+  "_id": {
+    "$oid": "66776858d1264f90717202e3"
+  },
+  "id": "2",
+  "numero_proceso": "09332201802525",
+  "fecha": "26/06/2018 14:40",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Mejia Coca Natividad Nelly, Lok Chan Jorge Washington"
+},
+{
+  "_id": {
+    "$oid": "6677685bb985e12c7394e20c"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112782",
+  "fecha": "20/12/2021 10:18",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776872d1264f90717202e4"
+  },
+  "id": "1",
+  "numero_proceso": "09332201800171",
+  "fecha": "08/01/2018 16:21",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Cuesta Ramos Carlos Federico"
+},
+{
+  "_id": {
+    "$oid": "66776874b985e12c7394e20d"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112781",
+  "fecha": "20/12/2021 10:14",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "6677688dd1264f90717202e5"
+  },
+  "id": "2",
+  "numero_proceso": "09332201800170",
+  "fecha": "18/09/2018 14:09",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Pintag Morocho Jose Luis, Decimavilla Moran Viviana Amparo"
+},
+{
+  "_id": {
+    "$oid": "6677688dd1264f90717202e6"
+  },
+  "id": "3",
+  "numero_proceso": "09332201800170",
+  "fecha": "01/02/2019 14:13",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Pintag Morocho Jose Luis, Decimavilla Moran Viviana Amparo"
+},
+{
+  "_id": {
+    "$oid": "6677688dd1264f90717202e7"
+  },
+  "id": "1",
+  "numero_proceso": "09332201800170",
+  "fecha": "08/01/2018 16:15",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Pintag Morocho Jose Luis, Decimavilla Moran Viviana Amparo"
+},
+{
+  "_id": {
+    "$oid": "6677688eb985e12c7394e20e"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112780",
+  "fecha": "20/12/2021 10:09",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667768a9d1264f90717202e8"
+  },
+  "id": "2",
+  "numero_proceso": "09332201800168",
+  "fecha": "25/04/2019 12:56",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Cacpata Chavez Milton Geovanny, Molina Gutierrez Hilda Maria"
+},
+{
+  "_id": {
+    "$oid": "667768a9d1264f90717202e9"
+  },
+  "id": "2",
+  "numero_proceso": "09332201800168",
+  "fecha": "14/02/2019 10:39",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Cacpata Chavez Milton Geovanny, Molina Gutierrez Hilda Maria"
+},
+{
+  "_id": {
+    "$oid": "667768a9d1264f90717202ea"
+  },
+  "id": "1",
+  "numero_proceso": "09332201800168",
+  "fecha": "08/01/2018 16:06",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Cacpata Chavez Milton Geovanny, Molina Gutierrez Hilda Maria"
+},
+{
+  "_id": {
+    "$oid": "667768aab985e12c7394e20f"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112779",
+  "fecha": "20/12/2021 10:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667768c4b985e12c7394e210"
+  },
+  "id": "1",
+  "numero_proceso": "08282202112778",
+  "fecha": "20/12/2021 09:56",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667768c6d1264f90717202eb"
+  },
+  "id": "1",
+  "numero_proceso": "09332201711343",
+  "fecha": "27/12/2017 15:33",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Mendoza Alarcon Ligia Beatriz, Cordova Briones Jose Maria"
+},
+{
+  "_id": {
+    "$oid": "667768dfb985e12c7394e211"
+  },
+  "id": "1",
+  "numero_proceso": "07333202103082",
+  "fecha": "13/12/2021 14:52",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Cordova Jose Alejandro"
+},
+{
+  "_id": {
+    "$oid": "667768e1d1264f90717202ec"
+  },
+  "id": "1",
+  "numero_proceso": "09332201711240",
+  "fecha": "21/12/2017 16:14",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Alfredo Vicente Morocho Parrales Pspd Y Pldqr Soc. Conyugal, Gina Solanda Velaz , Pspd Y Pldqr Soc. Conyugal, Moreira Sevillano Nixon Jouvin"
+},
+{
+  "_id": {
+    "$oid": "667768f9d1264f90717202ed"
+  },
+  "id": "1",
+  "numero_proceso": "09332201711238",
+  "fecha": "21/12/2017 16:06",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Cabanilla Monserrate Eduardo Tomas"
+},
+{
+  "_id": {
+    "$oid": "667768fbb985e12c7394e212"
+  },
+  "id": "1",
+  "numero_proceso": "07333202103079",
+  "fecha": "13/12/2021 14:45",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Cabrera Feijoo Clara Luz"
+},
+{
+  "_id": {
+    "$oid": "66776913b985e12c7394e213"
+  },
+  "id": "2",
+  "numero_proceso": "07317202100918",
+  "fecha": "12/01/2022 13:11",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Luzuriaga Romero Pilar Del Rocio",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776913b985e12c7394e214"
+  },
+  "id": "1",
+  "numero_proceso": "07317202100918",
+  "fecha": "08/12/2021 12:00",
+  "actores_ofendidos": "Luzuriaga Romero Pilar Del Rocio, Ordoñez Granda Carlos Eduardo",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776915d1264f90717202ee"
+  },
+  "id": "1",
+  "numero_proceso": "07308201700668G",
+  "fecha": "28/11/2017 10:44",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Freire Rojas Luis Angel"
+},
+{
+  "_id": {
+    "$oid": "6677692fd1264f90717202ef"
+  },
+  "id": "1",
+  "numero_proceso": "09332201708446",
+  "fecha": "11/10/2017 17:09",
+  "actores_ofendidos": "Compañia Imveresa Importadora De Vehiculos Y Repuestos S.a. Representada Por Ing. Tanya Elizabeth López Quezada",
+  "demandados_procesados": "Marchan Aguirre Grace Del Rosario, Jibaja Arregui Sandro Gabriel"
+},
+{
+  "_id": {
+    "$oid": "66776930b985e12c7394e215"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111571",
+  "fecha": "22/11/2021 11:05",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776949b985e12c7394e216"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111570",
+  "fecha": "22/11/2021 11:02",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776949d1264f90717202f0"
+  },
+  "id": "1",
+  "numero_proceso": "09332201705966",
+  "fecha": "01/08/2017 17:10",
+  "actores_ofendidos": "Compañia Imveresa En La Persona De Ing. Tanya Elizabeth Lopez Quezada",
+  "demandados_procesados": "Marchan Aguirre Grace Del Rosario, Jibaja Arregui Sandro Gabriel"
+},
+{
+  "_id": {
+    "$oid": "66776963b985e12c7394e217"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111569",
+  "fecha": "22/11/2021 10:59",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776965d1264f90717202f1"
+  },
+  "id": "1",
+  "numero_proceso": "07307201700030",
+  "fecha": "13/01/2017 11:02",
+  "actores_ofendidos": "Imveresa Importadora De Vehículos Y Repuestos S.a, Representada Por La Ing. Com. Tanya Elizabeth Lopez Quezada",
+  "demandados_procesados": "Palma Cedeño Denis Monserrate, Encalada Valarezo Hector Ubaldo"
+},
+{
+  "_id": {
+    "$oid": "6677697db985e12c7394e218"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111568",
+  "fecha": "22/11/2021 10:56",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "6677697fd1264f90717202f2"
+  },
+  "id": "1",
+  "numero_proceso": "09332201502465",
+  "fecha": "18/03/2015 13:58",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Cecilia Isabel Rojas Solorzano, Nieve Liliana Solorzano Carreño"
+},
+{
+  "_id": {
+    "$oid": "66776998b985e12c7394e219"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111566",
+  "fecha": "22/11/2021 10:52",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776999d1264f90717202f3"
+  },
+  "id": "1",
+  "numero_proceso": "09332201502460",
+  "fecha": "18/03/2015 13:20",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Pavon Muñoz Mercedes Nancy, Carlos Eustorgio Coello Mayea"
+},
+{
+  "_id": {
+    "$oid": "667769b3b985e12c7394e21a"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111565",
+  "fecha": "22/11/2021 10:49",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667769b4d1264f90717202f4"
+  },
+  "id": "1",
+  "numero_proceso": "09332201461444",
+  "fecha": "02/07/2014 00:00",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Perez Manzaba Silvia Catherine, Lara Alvarado Carlos Alberto"
+},
+{
+  "_id": {
+    "$oid": "667769cbb985e12c7394e21b"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111564",
+  "fecha": "22/11/2021 10:34",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667769ced1264f90717202f5"
+  },
+  "id": "1",
+  "numero_proceso": "09332201453781",
+  "fecha": "28/04/2014 00:00",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Guerrero Francomilton Milagro, Flor Carvajal Veronica Petita /Garante Solidario /"
+},
+{
+  "_id": {
+    "$oid": "667769e7b985e12c7394e21c"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111561",
+  "fecha": "22/11/2021 10:05",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667769e9d1264f90717202f6"
+  },
+  "id": "1",
+  "numero_proceso": "09332201451229",
+  "fecha": "10/04/2014 00:00",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a.",
+  "demandados_procesados": "Sabando Mera Kleber Antonio"
+},
+{
+  "_id": {
+    "$oid": "66776a01b985e12c7394e21d"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111560",
+  "fecha": "22/11/2021 09:58",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776a03d1264f90717202f7"
+  },
+  "id": "1",
+  "numero_proceso": "09332201445878",
+  "fecha": "20/03/2014 00:00",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Juan Carlos Carmigniani Valencia",
+  "demandados_procesados": "Ing Gonzalo Beltrán (Perito Avaluador), Layana Fernandez Francisco Melesio Pspd Y P.l.d.q.r. Consorcio Impresicorp, Borja Quiñonez Jose Felipe (Garante)"
+},
+{
+  "_id": {
+    "$oid": "66776a1cb985e12c7394e21e"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111559",
+  "fecha": "22/11/2021 09:49",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776a1fd1264f90717202f8"
+  },
+  "id": "1",
+  "numero_proceso": "09332201443698",
+  "fecha": "12/03/2014 00:00",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Zambrano Alcivar Manuel-perito, Juan Carlos Carmigniani Valencia",
+  "demandados_procesados": "Carranza Machado Sergio Simon, Gamarra Tagua Julio Anibal"
+},
+{
+  "_id": {
+    "$oid": "66776a38b985e12c7394e21f"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111557",
+  "fecha": "22/11/2021 09:31",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776a3bd1264f90717202f9"
+  },
+  "id": "1",
+  "numero_proceso": "09332201430233",
+  "fecha": "13/02/2014 00:00",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Angulo Hurtado Mercedes",
+  "demandados_procesados": "Merchan Domenech Norma Celeste, Ponce Mora Wilfrido Blas (Garante)"
+},
+{
+  "_id": {
+    "$oid": "66776a53d1264f90717202fa"
+  },
+  "id": "1",
+  "numero_proceso": "09332201422824",
+  "fecha": "03/02/2014 00:00",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Respuestos S.a.",
+  "demandados_procesados": "Bobadilla Arana Joba Mireya, Alicia Pimentel Salcedo, Pedro Wilfrido Cano Herrera"
+},
+{
+  "_id": {
+    "$oid": "66776a54b985e12c7394e220"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111556",
+  "fecha": "22/11/2021 09:26",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776a6fd1264f90717202fb"
+  },
+  "id": "1",
+  "numero_proceso": "09332201422390",
+  "fecha": "01/02/2014 00:00",
+  "actores_ofendidos": "Imveresa Importadora De Vehiculos Y Repuestos S.a., Sanchez Cuenca Eduardo Cirilo Ab",
+  "demandados_procesados": "Hormaza Torres Liliana Lorena, Yance Tutiven Littelton Roberto P.l..d.qr/ Imveresa/, Marcos Eduardo Cedeño Zambrano"
+},
+{
+  "_id": {
+    "$oid": "66776a70b985e12c7394e221"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111555",
+  "fecha": "22/11/2021 09:18",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776a8bb985e12c7394e222"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111554",
+  "fecha": "22/11/2021 09:12",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776aa3b985e12c7394e223"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111553",
+  "fecha": "22/11/2021 09:07",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776abdb985e12c7394e224"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111552",
+  "fecha": "22/11/2021 09:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776ad9b985e12c7394e225"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111551",
+  "fecha": "22/11/2021 08:55",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776af6b985e12c7394e226"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111550",
+  "fecha": "22/11/2021 08:42",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776b11b985e12c7394e227"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111549",
+  "fecha": "22/11/2021 08:39",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776b2fb985e12c7394e228"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111548",
+  "fecha": "22/11/2021 08:34",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776b49b985e12c7394e229"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111547",
+  "fecha": "22/11/2021 08:29",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776b65b985e12c7394e22a"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111546",
+  "fecha": "22/11/2021 08:22",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776b81b985e12c7394e22b"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111545",
+  "fecha": "22/11/2021 08:19",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776b9cb985e12c7394e22c"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111544",
+  "fecha": "22/11/2021 08:16",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776bb7b985e12c7394e22d"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111531",
+  "fecha": "18/11/2021 16:21",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776bd4b985e12c7394e22e"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111530",
+  "fecha": "18/11/2021 16:18",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776beeb985e12c7394e22f"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111529",
+  "fecha": "18/11/2021 16:15",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776c09b985e12c7394e230"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111528",
+  "fecha": "18/11/2021 16:12",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776c25b985e12c7394e231"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111527",
+  "fecha": "18/11/2021 16:08",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776c40b985e12c7394e232"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111526",
+  "fecha": "18/11/2021 16:05",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776c5db985e12c7394e233"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111524",
+  "fecha": "18/11/2021 16:02",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776c77b985e12c7394e234"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111522",
+  "fecha": "18/11/2021 15:58",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776c93b985e12c7394e235"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111520",
+  "fecha": "18/11/2021 15:54",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776cadb985e12c7394e236"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111519",
+  "fecha": "18/11/2021 15:48",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776cc8b985e12c7394e237"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111449",
+  "fecha": "17/11/2021 16:15",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776ce4b985e12c7394e238"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111447",
+  "fecha": "17/11/2021 16:10",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776d02b985e12c7394e239"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111442",
+  "fecha": "17/11/2021 15:59",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776d1eb985e12c7394e23a"
+  },
+  "id": "1",
+  "numero_proceso": "08282202111404",
+  "fecha": "17/11/2021 10:58",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776d39b985e12c7394e23b"
+  },
+  "id": "1",
+  "numero_proceso": "07333202102617",
+  "fecha": "28/10/2021 08:31",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Ramon Maldonado Maximo Eduardo"
+},
+{
+  "_id": {
+    "$oid": "66776d54b985e12c7394e23c"
+  },
+  "id": "1",
+  "numero_proceso": "07333202102616",
+  "fecha": "28/10/2021 08:25",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Lucero Solis Maria Nestorina"
+},
+{
+  "_id": {
+    "$oid": "66776d70b985e12c7394e23d"
+  },
+  "id": "1",
+  "numero_proceso": "07333202102611",
+  "fecha": "27/10/2021 15:20",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Naula Teresa De Jesus"
+},
+{
+  "_id": {
+    "$oid": "66776d8ab985e12c7394e23e"
+  },
+  "id": "1",
+  "numero_proceso": "07333202102609",
+  "fecha": "27/10/2021 14:40",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Martinez Zhigue Esther Dolores"
+},
+{
+  "_id": {
+    "$oid": "66776da5b985e12c7394e23f"
+  },
+  "id": "1",
+  "numero_proceso": "07333202102608",
+  "fecha": "27/10/2021 14:36",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Mite Ramirez Juana Francisca"
+},
+{
+  "_id": {
+    "$oid": "66776dc1b985e12c7394e240"
+  },
+  "id": "1",
+  "numero_proceso": "13284202107492",
+  "fecha": "30/08/2021 10:51",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776dc1b985e12c7394e241"
+  },
+  "id": "1",
+  "numero_proceso": "13284202107492",
+  "fecha": "06/12/2021 11:03",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776ddcb985e12c7394e242"
+  },
+  "id": "1",
+  "numero_proceso": "13284202107490",
+  "fecha": "30/08/2021 10:46",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776df8b985e12c7394e243"
+  },
+  "id": "1",
+  "numero_proceso": "13284202107489",
+  "fecha": "30/08/2021 10:42",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776e12b985e12c7394e244"
+  },
+  "id": "1",
+  "numero_proceso": "23281202103446",
+  "fecha": "28/08/2021 10:04",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Napa Jama Antonio Bismark"
+},
+{
+  "_id": {
+    "$oid": "66776e2db985e12c7394e245"
+  },
+  "id": "1",
+  "numero_proceso": "13284202106703",
+  "fecha": "13/08/2021 12:09",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776e4ab985e12c7394e246"
+  },
+  "id": "1",
+  "numero_proceso": "09332202108068",
+  "fecha": "10/02/2022 08:51",
+  "actores_ofendidos": "Intriago Acosta Lider Raul, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Compañía Ptc Ecuador S.a., Representada Legalmente Por El Señor Luís Felipe Tutiven Martínez, Tutiven Martinez Luis Felipe, Ptc Ecuador S.a."
+},
+{
+  "_id": {
+    "$oid": "66776e4ab985e12c7394e247"
+  },
+  "id": "1",
+  "numero_proceso": "09332202108068",
+  "fecha": "30/06/2021 15:07",
+  "actores_ofendidos": "Intriago Acosta Lider Raul, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Compañía Ptc Ecuador S.a., Representada Legalmente Por El Señor Luís Felipe Tutiven Martínez, Tutiven Martinez Luis Felipe, Ptc Ecuador S.a."
+},
+{
+  "_id": {
+    "$oid": "66776e65b985e12c7394e248"
+  },
+  "id": "1",
+  "numero_proceso": "24202202100370G",
+  "fecha": "04/06/2021 16:37",
+  "actores_ofendidos": "Montenegro Parrales Edwin Adalberto, Administrador De La Cnel Ep, Unidad De Negocio Santa Elena, Fiscalia General Del Estado, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Autores"
+},
+{
+  "_id": {
+    "$oid": "66776e84b985e12c7394e249"
+  },
+  "id": "1",
+  "numero_proceso": "21331202100198",
+  "fecha": "28/05/2021 09:54",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Prefecto Del Gobierno Autonomo Descentralizado Provincial De Sucumbios, Consorcio Crecer Mas, Procuraduria General Del Estado, Gobierno Autonomo Descentralizado De La Provincia De Sucumbios"
+},
+{
+  "_id": {
+    "$oid": "66776ea1b985e12c7394e24a"
+  },
+  "id": "1",
+  "numero_proceso": "24202202100179G",
+  "fecha": "06/05/2021 11:22",
+  "actores_ofendidos": "Edwin Adalberto Montenegro Parrales, Administrador De La Cnel Ep, Unidad De Negocios Santa Elena, Fiscalia General Del Estado, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Machuca Jimenez Remigio Alejandro"
+},
+{
+  "_id": {
+    "$oid": "66776ebeb985e12c7394e24b"
+  },
+  "id": "1",
+  "numero_proceso": "09802202100428",
+  "fecha": "13/04/2021 16:38",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Servicios Tecnicos Especializaos En Electricidad Sercoel.sa Representada Por Victor Acosta Villacis, Procuraduria General Del Estado"
+},
+{
+  "_id": {
+    "$oid": "66776ed7b985e12c7394e24c"
+  },
+  "id": "1",
+  "numero_proceso": "13284202007698",
+  "fecha": "29/10/2020 13:55",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776ef2b985e12c7394e24d"
+  },
+  "id": "1",
+  "numero_proceso": "13284202001312G",
+  "fecha": "18/02/2020 10:12",
+  "actores_ofendidos": "Fiscalia General Del Estado, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Bailon Cedeño Maria De Lourdes"
+},
+{
+  "_id": {
+    "$oid": "66776f0db985e12c7394e24e"
+  },
+  "id": "1",
+  "numero_proceso": "13284201907041",
+  "fecha": "26/12/2019 17:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66776f28b985e12c7394e24f"
+  },
+  "id": "1",
+  "numero_proceso": "09802201900978",
+  "fecha": "31/07/2023 08:48",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado, Ing Walter Ivan Mieles Santillan"
+},
+{
+  "_id": {
+    "$oid": "66776f29b985e12c7394e250"
+  },
+  "id": "1",
+  "numero_proceso": "09802201900978",
+  "fecha": "18/09/2019 13:47",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado, Ing Walter Ivan Mieles Santillan"
+},
+{
+  "_id": {
+    "$oid": "66776f45b985e12c7394e251"
+  },
+  "id": "1",
+  "numero_proceso": "11804201900305",
+  "fecha": "26/04/2021 13:01",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Delegada De La Procuraduría General Del Estado En Loja, Marco Rogelio Rojas Palacios"
+},
+{
+  "_id": {
+    "$oid": "66776f46b985e12c7394e252"
+  },
+  "id": "1",
+  "numero_proceso": "11804201900305",
+  "fecha": "16/09/2019 16:22",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Delegada De La Procuraduría General Del Estado En Loja, Marco Rogelio Rojas Palacios"
+},
+{
+  "_id": {
+    "$oid": "66776f61b985e12c7394e253"
+  },
+  "id": "1",
+  "numero_proceso": "13802201900316",
+  "fecha": "29/08/2019 16:08",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Compañia Servicios Perlara S.a. Representada Por El Señor Juan Carlos Arguello Ayala"
+},
+{
+  "_id": {
+    "$oid": "66776f61b985e12c7394e254"
+  },
+  "id": "2",
+  "numero_proceso": "13802201900316",
+  "fecha": "12/12/2019 14:50",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Compañia Servicios Perlara S.a. Representada Por El Señor Juan Carlos Arguello Ayala"
+},
+{
+  "_id": {
+    "$oid": "66776f61b985e12c7394e255"
+  },
+  "id": "2",
+  "numero_proceso": "13802201900316",
+  "fecha": "02/11/2022 12:23",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Compañia Servicios Perlara S.a. Representada Por El Señor Juan Carlos Arguello Ayala"
+},
+{
+  "_id": {
+    "$oid": "66776f7eb985e12c7394e256"
+  },
+  "id": "1",
+  "numero_proceso": "13802201900315",
+  "fecha": "29/08/2019 15:54",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procuraduria General Dele Stado/ A Traves Del Director Regional De Manabi, Juan Carlos Arguello Ayala"
+},
+{
+  "_id": {
+    "$oid": "66776f7eb985e12c7394e257"
+  },
+  "id": "2",
+  "numero_proceso": "13802201900315",
+  "fecha": "06/08/2020 13:08",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Juan Carlos Arguello Ayala"
+},
+{
+  "_id": {
+    "$oid": "66776f9ab985e12c7394e258"
+  },
+  "id": "1",
+  "numero_proceso": "09501201900205",
+  "fecha": "20/06/2019 13:32",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Recaudador Especial De La Direccion Zonal 5 Del S.r.i. De Santa Elena, Director Provincial Zonal 5 Del S.r.i. De Santa Elena, Directora General Del Servicio De Rentas Internas"
+},
+{
+  "_id": {
+    "$oid": "66776fb5b985e12c7394e259"
+  },
+  "id": "1",
+  "numero_proceso": "08304201900023",
+  "fecha": "26/03/2019 10:02",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Luis Enrique Quilumba Defaz, Representado Legalmente Por El Abogado Domingo Valencia Medina"
+},
+{
+  "_id": {
+    "$oid": "66776fcdb985e12c7394e25a"
+  },
+  "id": "1",
+  "numero_proceso": "09802201800988",
+  "fecha": "12/10/2018 10:33",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Marco Christian Noboa Moreno, Procurador General Del Estado, Marco Christian Noboa Moreno, En Calidad De Gerente General De La Compañía Percom S.a."
+},
+{
+  "_id": {
+    "$oid": "66776fe9b985e12c7394e25b"
+  },
+  "id": "1",
+  "numero_proceso": "13337201800757",
+  "fecha": "22/06/2018 09:28",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Empresa De Servicios Técnicos Especializados En Electricidad Sercoel S.a."
+},
+{
+  "_id": {
+    "$oid": "66777004b985e12c7394e25c"
+  },
+  "id": "1",
+  "numero_proceso": "08304201800030",
+  "fecha": "29/05/2018 15:25",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Fernando Saldarriaga Gaspar"
+},
+{
+  "_id": {
+    "$oid": "66777004b985e12c7394e25d"
+  },
+  "id": "2",
+  "numero_proceso": "08304201800030",
+  "fecha": "09/07/2020 11:53",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Fernando Saldarriaga Gaspar"
+},
+{
+  "_id": {
+    "$oid": "66777020b985e12c7394e25e"
+  },
+  "id": "1",
+  "numero_proceso": "09802201800458",
+  "fecha": "23/05/2018 10:44",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procuraduría General Del Estado, Empresa De Servicios Técnicos Especializados En Electricidad Sercoel S.a."
+},
+{
+  "_id": {
+    "$oid": "6677703cb985e12c7394e25f"
+  },
+  "id": "1",
+  "numero_proceso": "13802201800144",
+  "fecha": "17/04/2018 13:08",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado, A Traves Del Director Regional, Roy Jesus Maiguasca Nievez"
+},
+{
+  "_id": {
+    "$oid": "6677703cb985e12c7394e260"
+  },
+  "id": "2",
+  "numero_proceso": "13802201800144",
+  "fecha": "02/08/2018 15:49",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado, A Traves Del Director Regional, Roy Jesus Maiguasca Nievez"
+},
+{
+  "_id": {
+    "$oid": "6677705ab985e12c7394e261"
+  },
+  "id": "1",
+  "numero_proceso": "09802201800201",
+  "fecha": "08/03/2018 10:10",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procuraduria General Del Estado, Lucio Homero Villacres Pilco"
+},
+{
+  "_id": {
+    "$oid": "66777076b985e12c7394e262"
+  },
+  "id": "1",
+  "numero_proceso": "09802201800200",
+  "fecha": "08/03/2018 10:02",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Fabiola Estela Albornoz Gaspar., Procurador General Del Estado"
+},
+{
+  "_id": {
+    "$oid": "66777091b985e12c7394e263"
+  },
+  "id": "1",
+  "numero_proceso": "09802201800199",
+  "fecha": "21/12/2023 14:43",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Lorena Paola Santillan Sarmiento"
+},
+{
+  "_id": {
+    "$oid": "66777091b985e12c7394e264"
+  },
+  "id": "1",
+  "numero_proceso": "09802201800199",
+  "fecha": "22/10/2019 09:01",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Lorena Paola Santillan Sarmiento"
+},
+{
+  "_id": {
+    "$oid": "66777091b985e12c7394e265"
+  },
+  "id": "1",
+  "numero_proceso": "09802201800199",
+  "fecha": "08/03/2018 09:54",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Lorena Paola Santillan Sarmiento"
+},
+{
+  "_id": {
+    "$oid": "667770aeb985e12c7394e266"
+  },
+  "id": "1",
+  "numero_proceso": "09802201800198",
+  "fecha": "08/03/2018 09:46",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Alberto Eloy Loor Martinez En Calidad De Presidente Ejecutivo De Adamacro S.a En Liquidacion De Presidente Ejecut, Procurador General Del Estado, Adamacro S.a."
+},
+{
+  "_id": {
+    "$oid": "667770cab985e12c7394e267"
+  },
+  "id": "1",
+  "numero_proceso": "09802201800197",
+  "fecha": "08/03/2018 09:38",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado, Compañía Desigwork S.a., Representada Por La Señora Esther Luisa Alvarado Murillo, Compañía Desigwork S.a., Representada Por El Señor Carlos Luis Sánchez Paredes, Compañía Desigwork S.a., Representada Por El Señor Ingeniero Williams Richard Segura Bravo"
+},
+{
+  "_id": {
+    "$oid": "667770e9b985e12c7394e268"
+  },
+  "id": "1",
+  "numero_proceso": "09802201800196",
+  "fecha": "08/03/2018 09:28",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Director Regional 1 De La Procuraduría General Del Estado, Daniel Agustín Mora Ortega En Calidad De Contratista"
+},
+{
+  "_id": {
+    "$oid": "66777104b985e12c7394e269"
+  },
+  "id": "1",
+  "numero_proceso": "13322201700898G",
+  "fecha": "20/12/2017 08:40",
+  "actores_ofendidos": "Patiño Guanuchi Freddy Fernando, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Fiscalia General Del Estado",
+  "demandados_procesados": "Chica Lopez Miguel Ernesto"
+},
+{
+  "_id": {
+    "$oid": "66777120b985e12c7394e26a"
+  },
+  "id": "1",
+  "numero_proceso": "08331201700288G",
+  "fecha": "15/09/2017 09:20",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad S. A.",
+  "demandados_procesados": "Ortiz Quevedo Walter Roman"
+},
+{
+  "_id": {
+    "$oid": "6677713bb985e12c7394e26b"
+  },
+  "id": "1",
+  "numero_proceso": "13802201700222",
+  "fecha": "01/08/2017 11:00",
+  "actores_ofendidos": "Procuraduria General Del Estado, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Ingenieria Mantenimiento Y Construccion Trenton S.a."
+},
+{
+  "_id": {
+    "$oid": "6677713bb985e12c7394e26c"
+  },
+  "id": "2",
+  "numero_proceso": "13802201700222",
+  "fecha": "17/07/2019 15:09",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Procuraduria General Del Estado",
+  "demandados_procesados": "Ingenieria Mantenimiento Y Construccion Trenton S.a."
+},
+{
+  "_id": {
+    "$oid": "66777157b985e12c7394e26d"
+  },
+  "id": "1",
+  "numero_proceso": "13802201700213",
+  "fecha": "01/08/2017 08:53",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Aspiazu Quiñonez Manuel Adolfo, Dr. Íñigo Francisco Salvador Crespo, En Calidad De Procurador General Del Estado/ A Través De La Dirección Regional De La Procuraduría General Del Estado En Manabí"
+},
+{
+  "_id": {
+    "$oid": "66777174b985e12c7394e26e"
+  },
+  "id": "1",
+  "numero_proceso": "09802201700048",
+  "fecha": "30/11/2017 13:38",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Procurador General Del Estado, Contraloria General Del Estado"
+},
+{
+  "_id": {
+    "$oid": "66777174b985e12c7394e26f"
+  },
+  "id": "1",
+  "numero_proceso": "09802201700048",
+  "fecha": "23/01/2017 17:01",
+  "actores_ofendidos": "Montenegro Parrales Edwin Adalberto",
+  "demandados_procesados": "Procurador General Del Estado, Contraloria General Del Estado"
+},
+{
+  "_id": {
+    "$oid": "6677718fb985e12c7394e270"
+  },
+  "id": "1",
+  "numero_proceso": "09802201600993",
+  "fecha": "02/12/2016 15:53",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep., Campodonico Perez Jean Piero Romano",
+  "demandados_procesados": "Imputcorp S.a Representadapor El Sr. Franklin Eduardo Campos Garcia En Su Calidad De Gerente General"
+},
+{
+  "_id": {
+    "$oid": "667771acb985e12c7394e271"
+  },
+  "id": "1",
+  "numero_proceso": "09286201602913",
+  "fecha": "12/07/2016 10:14",
+  "actores_ofendidos": "Monica Rivera Elvira, Agente Fiscal, Empresa Electrica Pública Estratégica Corporación Nacional De Electricidad Cnel Ep, , Rivera Navarro Monica Elvira Agente Fiscal, Fiscalia De Accidentes De Transito",
+  "demandados_procesados": "Bravo Campoverde Wilson Moises"
+},
+{
+  "_id": {
+    "$oid": "667771cab985e12c7394e272"
+  },
+  "id": "1",
+  "numero_proceso": "13334201501114",
+  "fecha": "16/06/2015 11:02",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Arteaga Vera Jaime Luciano"
+},
+{
+  "_id": {
+    "$oid": "667771e7b985e12c7394e273"
+  },
+  "id": "1",
+  "numero_proceso": "09406201524097G",
+  "fecha": "17/02/2016 19:57",
+  "actores_ofendidos": "Cnel Ep Jorge Jaramillo Mogrovejo Representante Legal, Ariconstru Jhonson Maria Fernanda Representante Legal",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "667771e8b985e12c7394e274"
+  },
+  "id": "1",
+  "numero_proceso": "09406201524097G",
+  "fecha": "19/05/2015 14:23",
+  "actores_ofendidos": "Cnel Ep Jorge Jaramillo Mogrovejo Representante Legal, Ariconstru Jhonson Maria Fernanda Representante Legal",
+  "demandados_procesados": ""
+},
+{
+  "_id": {
+    "$oid": "66777205b985e12c7394e275"
+  },
+  "id": "1",
+  "numero_proceso": "09332201458985",
+  "fecha": "28/05/2014 00:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Ab. Jean Piero Campodónico Pérez Pldqr Empresa Electrica Publica Gye",
+  "demandados_procesados": "Avila Jimbo Margarita"
+},
+{
+  "_id": {
+    "$oid": "66777220b985e12c7394e276"
+  },
+  "id": "1",
+  "numero_proceso": "09332201455654",
+  "fecha": "06/05/2014 00:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Peña Correa Francisco"
+},
+{
+  "_id": {
+    "$oid": "6677723eb985e12c7394e277"
+  },
+  "id": "1",
+  "numero_proceso": "1233420143617",
+  "fecha": "25/04/2014 00:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Freddy Antonio Maquilon Yepez",
+  "demandados_procesados": "Delegado De La Procuraduria General Del Estado, Manuel Steven Canales Gomez-corporacion Nacional De Electricdad Regional Los Rios Cenel"
+},
+{
+  "_id": {
+    "$oid": "6677725fb985e12c7394e278"
+  },
+  "id": "1",
+  "numero_proceso": "09332201445870",
+  "fecha": "20/03/2014 00:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Gomez Mendoza Narcisa"
+},
+{
+  "_id": {
+    "$oid": "6677727cb985e12c7394e279"
+  },
+  "id": "1",
+  "numero_proceso": "09332201430792",
+  "fecha": "15/02/2014 00:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Cabrera Alvarado Clara"
+},
+{
+  "_id": {
+    "$oid": "66777299b985e12c7394e27a"
+  },
+  "id": "1",
+  "numero_proceso": "09332201428147",
+  "fecha": "24/10/2014 12:20",
+  "actores_ofendidos": "Empresa Electrica Publica De Guayaquil Ep - Proc. Jud. Dr. Carlos Coello",
+  "demandados_procesados": "Delgado Quinde Celinda C"
+},
+{
+  "_id": {
+    "$oid": "66777299b985e12c7394e27b"
+  },
+  "id": "1",
+  "numero_proceso": "09332201428147",
+  "fecha": "10/02/2014 00:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Delgado Quinde Celinda C"
+},
+{
+  "_id": {
+    "$oid": "667772b4b985e12c7394e27c"
+  },
+  "id": "1",
+  "numero_proceso": "09332201425779",
+  "fecha": "25/03/2015 11:26",
+  "actores_ofendidos": "Empresa Electrica Estrategica Corpora Cion Nacional De Electricidad C Nel Ep",
+  "demandados_procesados": "Saenz Alvarado Luz Del Rocio"
+},
+{
+  "_id": {
+    "$oid": "667772b5b985e12c7394e27d"
+  },
+  "id": "1",
+  "numero_proceso": "09332201425779",
+  "fecha": "06/02/2014 00:00",
+  "actores_ofendidos": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+  "demandados_procesados": "Saenz Alvarado Luz Del Rocio"
+}]
