@@ -3,15 +3,16 @@ import random
 from time import sleep
 import multiprocessing
 from selenium.webdriver.common.by import By
-# from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager # pip install webdriver-manager
-from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
+from selenium.common.exceptions import TimeoutException, StaleElementReferenceException, NoSuchElementException
 from process import identify_process, obtain_all_process, count_view_process
 from details import recorrer_vistas as  recorrer_vistas_details
 from actuaciones import recorrer_vistas as recorrer_vistas_actuaciones
-
+from itertools import zip_longest
 
 # Se establece el tipo de proceso a realizar
 # type_process = [1,2]
@@ -23,6 +24,13 @@ from actuaciones import recorrer_vistas as recorrer_vistas_actuaciones
 # Demandado2 = 0968599020001
 # codigos_demandante = ['0968599020001','0992339411001']
 # codigos_demandado = ['1791251237001','0968599020001']
+def verify_existence(driver, by, value):
+    try:
+        driver.find_element(by, value)
+        return True
+    except NoSuchElementException:
+        return False
+
 def return_to_start(driver):
      #   Se retorna a la vista inicial
         boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")
@@ -46,6 +54,12 @@ def perform_query(codigo,type_process):
         #       2.  Demandado / Procesado
         identify_process(type_process, driver, codigo)
 
+        #   Se da tiempo para que la página cargue correctamente
+        sleep(random.uniform(8.0,10.0))
+
+        if verify_existence(driver, By.XPATH, "//span[@id='recaptcha-anchor']"):
+            # Esperar hasta que el elemento reCAPTCHA sea clickable y hacer clic en él
+            WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//span[@id='recaptcha-anchor']"))).click()
 
         #   Se obtiene y posteriormente se da click en el boton buscar para realizar la consulta
         boton_buscar = driver.find_element(By.XPATH,"//button[@type = 'submit']")
@@ -61,11 +75,11 @@ def perform_query(codigo,type_process):
 
 
         #   Se obtienen todos los procesos y se envian a la base de datos en mongodb
-        #obtain_all_process(limit, driver, codigo)
+        obtain_all_process(limit, driver, codigo)
 
         #   Se retorna a la vista inicial
-        #boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")
-        #boton_inicio.click()
+        boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")
+        boton_inicio.click()
 
         #   Se espera a que la página cargue por completo
         #sleep(random.uniform(8.0,10.0))
@@ -83,7 +97,7 @@ def perform_query(codigo,type_process):
 
         #   Se realiza el recorrido por todas las vistas, se va ingresando a cada uno de los procesos, obteniendo sus detalles 
         #   y enviandolos a la base de datos en mongodb
-        recorrer_vistas_actuaciones(limit, driver)
+        #recorrer_vistas_actuaciones(limit, driver)
 
         driver.quit()
     except StaleElementReferenceException:
@@ -94,15 +108,24 @@ def perform_query(codigo,type_process):
 
 if __name__ == '__main__':
     multiprocessing.freeze_support()
-    codigos_demandante = ['0968599020001','0992339411001']
-
+    codigos_demandante = ['0968599020001','0992339411001','0992339411001','0992339411001','0968599020001','0968599020001','0968599020001']
+    codigos_demandado = ['1791251237001','0968599020001','1791251237001','0968599020001','1791251237001','0968599020001','1791251237001','0968599020001']
     # Crear los procesos en paralelo
     processes = []
-    for codigo in codigos_demandante:
-        type_process = 1
-        p = multiprocessing.Process(target=perform_query, args=(codigo,type_process))
-        processes.append(p)
-        p.start()
+    for codigo_demandante,codigo_demandado in zip_longest(codigos_demandante, codigos_demandado, fillvalue=None):
+        
+        if codigo_demandante != None:
+            type_process = 1
+            p = multiprocessing.Process(target=perform_query, args=(codigo_demandante,type_process))
+            processes.append(p)
+            p.start()
+
+        if codigo_demandado != None:
+            type_process = 2
+            p = multiprocessing.Process(target=perform_query, args=(codigo_demandado,type_process))
+            processes.append(p)
+            p.start()
+
 
     # Esperar a que todos los procesos terminen
     for process in processes:

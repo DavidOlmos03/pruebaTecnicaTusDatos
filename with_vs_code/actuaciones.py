@@ -31,8 +31,8 @@ def obtencion_actuaciones(proceso, driver):
         boton_proceso.click()
 
         # Se espera unos segundos antes de dar click al boton de detalles
-        sleep(random.uniform(8.0,10.0))
-        boton_detalle_proceso = driver.find_element(By.XPATH,'.//a[@href="/actuaciones"]')
+        #sleep(random.uniform(8.0,10.0))
+        boton_detalle_proceso = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,'.//a[@href="/actuaciones"]')))
         boton_detalle_proceso.click()
         # Se extraen todos los detalles según la fecha de ingreso
         #listado_detalles = WebDriverWait(driver,10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[contains(@class = 'cabecera-tabla')]")))
@@ -62,7 +62,7 @@ def recorrido_por_vista(num_vista,listado_procesos, driver):
             #boton_proceso.click()
 
             # Obtengo los detalles del proceso
-            # sleep(random.uniform(3.0,5.0))
+            sleep(random.uniform(3.0,5.0))
             obtencion_actuaciones(listado_procesos[i], driver)
 
             sleep(random.uniform(3.0,5.0))
@@ -79,7 +79,7 @@ def recorrer_vistas(limit, driver):
     sleep(random.uniform(3.0,5.0))
     listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
 
-    for i in range(limit-1):
+    for i in range(limit):
         listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
         recorrido_por_vista(num_vista, listado_procesos, driver)
         
