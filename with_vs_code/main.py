@@ -9,8 +9,8 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager # pip install webdriver-manager
 from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
 from process import identify_process, obtain_all_process, count_view_process
-from details import recorrer_vistas
-
+from details import recorrer_vistas as  recorrer_vistas_details
+from actuaciones import recorrer_vistas as recorrer_vistas_actuaciones
 
 
 # Se establece el tipo de proceso a realizar
@@ -23,6 +23,14 @@ from details import recorrer_vistas
 # Demandado2 = 0968599020001
 # codigos_demandante = ['0968599020001','0992339411001']
 # codigos_demandado = ['1791251237001','0968599020001']
+def return_to_start(driver):
+     #   Se retorna a la vista inicial
+        boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")
+        boton_inicio.click()
+
+        #   Se espera a que la página cargue por completo
+        sleep(random.uniform(8.0,10.0))
+
 
 def perform_query(codigo,type_process):
     opts = Options()
@@ -53,18 +61,29 @@ def perform_query(codigo,type_process):
 
 
         #   Se obtienen todos los procesos y se envian a la base de datos en mongodb
-        obtain_all_process(limit, driver, codigo)
+        #obtain_all_process(limit, driver, codigo)
 
         #   Se retorna a la vista inicial
-        boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")
-        boton_inicio.click()
+        #boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")
+        #boton_inicio.click()
 
         #   Se espera a que la página cargue por completo
-        sleep(random.uniform(8.0,10.0))
+        #sleep(random.uniform(8.0,10.0))
 
-        #   Se realiza el contenido por todas las vistas, se va ingresando a cada uno de los procesos, obteniendo sus detalles 
+        #   Se realiza el recorrido por todas las vistas, se va ingresando a cada uno de los procesos, obteniendo sus detalles 
         #   y enviandolos a la base de datos en mongodb
-        recorrer_vistas(limit, driver)
+        #recorrer_vistas_details(limit, driver)
+        
+        #   Se retorna a la vista inicial
+        #boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")
+        #boton_inicio.click()
+
+        #   Se espera a que la página cargue por completo
+        #sleep(random.uniform(8.0,10.0))
+
+        #   Se realiza el recorrido por todas las vistas, se va ingresando a cada uno de los procesos, obteniendo sus detalles 
+        #   y enviandolos a la base de datos en mongodb
+        recorrer_vistas_actuaciones(limit, driver)
 
         driver.quit()
     except StaleElementReferenceException:
