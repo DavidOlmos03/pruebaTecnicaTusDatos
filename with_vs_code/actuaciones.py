@@ -20,26 +20,26 @@ def enviar_actuaciones(numero_proceso, listado_actuaciones):
 
 
 #   Función para obtener las actuaciones de un proceso
-def obtencion_actuaciones(proceso, driver):
-    #try:
-        # Se espera unos segundos antes de dar click al boton de detalles
-        sleep(random.uniform(8.0,10.0))
-        #listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
-        
-        numero_proceso = proceso.find_element(By.XPATH,'.//div[@class="numero-proceso"]').text
-        boton_proceso = proceso.find_element(By.XPATH,'.//a[@href="/movimientos"]')
-        boton_proceso.click()
+def obtencion_actuaciones(numero_proceso, detalle, driver):
+    
+    sleep(random.uniform(8.0,10.0))
 
-        # Se espera unos segundos antes de dar click al boton de detalles
-        #sleep(random.uniform(8.0,10.0))
-        boton_detalle_proceso = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,'.//a[@href="/actuaciones"]')))
-        boton_detalle_proceso.click()
-        # Se extraen todos los detalles según la fecha de ingreso
-        #listado_detalles = WebDriverWait(driver,10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[contains(@class = 'cabecera-tabla')]")))
-        listado_actuaciones = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, "//span[contains(@class, \"mat-content\")]")))
+    listado_detalles = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, \"lista-movimiento-individual\")]")))
 
-        # Se envian los detalles a la base de datos
-        enviar_actuaciones(numero_proceso,listado_actuaciones)
+    boton_detalle_proceso = detalle.find_element(By.XPATH,'.//a[@href="/actuaciones"]')
+    boton_detalle_proceso.click()
+
+
+    # Se extraen todos los detalles según la fecha de ingreso
+    #listado_detalles = WebDriverWait(driver,10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[contains(@class = 'cabecera-tabla')]")))
+    listado_actuaciones = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, "//span[contains(@class, \"mat-content\")]")))
+
+    # Se envian los detalles a la base de datos
+    enviar_actuaciones(numero_proceso,listado_actuaciones)
+
+
+    driver.back()
+
 
 
 def recorrido_por_vista(num_vista,listado_procesos, driver):
@@ -60,18 +60,29 @@ def recorrido_por_vista(num_vista,listado_procesos, driver):
             listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
             #boton_proceso = listado_procesos[i].find_element(By.XPATH,'.//a[@href="/movimientos"]')
             #boton_proceso.click()
-
-            # Obtengo los detalles del proceso
-            sleep(random.uniform(3.0,5.0))
-            obtencion_actuaciones(listado_procesos[i], driver)
-
-            sleep(random.uniform(3.0,5.0))
-            driver.back()
-            driver.back()
             
+            # Se espera unos segundos antes de dar click al boton de detalles
+            sleep(random.uniform(8.0,10.0))
+
+            numero_proceso = listado_procesos[i].find_element(By.XPATH,'.//div[@class="numero-proceso"]').text
+            boton_proceso = listado_procesos[i].find_element(By.XPATH,'.//a[@href="/movimientos"]')
+            boton_proceso.click()
+            
+            #   Se obtiene el listado de talles de un proceso
+            listado_detalles = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, \"lista-movimiento-individual\")]")))
+            for j in range(len(listado_detalles)):
+                listado_detalles = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, \"lista-movimiento-individual\")]")))
+                obtencion_actuaciones(numero_proceso, listado_detalles[j], driver)
+                
+
+            sleep(random.uniform(3.0,5.0))
+            driver.back()
+
+
         except StaleElementReferenceException:
             sleep(random.uniform(3.0,5.0))
             listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
+
 
 
 def recorrer_vistas(limit, driver):

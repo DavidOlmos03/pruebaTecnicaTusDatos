@@ -77,27 +77,25 @@ def perform_query(codigo,type_process):
         #   Se obtienen todos los procesos y se envian a la base de datos en mongodb
         obtain_all_process(limit, driver, codigo)
 
-        #   Se retorna a la vista inicial
-        boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")
-        boton_inicio.click()
 
-        #   Se espera a que la página cargue por completo
-        #sleep(random.uniform(8.0,10.0))
+        #   Se retorna a la vista inicial
+        return_to_start(driver)
+
 
         #   Se realiza el recorrido por todas las vistas, se va ingresando a cada uno de los procesos, obteniendo sus detalles 
         #   y enviandolos a la base de datos en mongodb
-        #recorrer_vistas_details(limit, driver)
+        recorrer_vistas_details(limit, driver)
         
-        #   Se retorna a la vista inicial
-        #boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")
-        #boton_inicio.click()
 
-        #   Se espera a que la página cargue por completo
-        #sleep(random.uniform(8.0,10.0))
+
+        #   Se retorna a la vista inicial
+        return_to_start(driver)
+
+
 
         #   Se realiza el recorrido por todas las vistas, se va ingresando a cada uno de los procesos, obteniendo sus detalles 
         #   y enviandolos a la base de datos en mongodb
-        #recorrer_vistas_actuaciones(limit, driver)
+        recorrer_vistas_actuaciones(limit, driver)
 
         driver.quit()
     except StaleElementReferenceException:

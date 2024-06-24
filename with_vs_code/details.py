@@ -26,7 +26,6 @@ def enviar_detalles(numero_proceso,listado_detalles):
         })
 
 
-#print(listado_procesos[0].text)
 def obtencion_detalle(proceso, driver):
     
         # Se espera unos segundos antes de dar click al boton de detalles
@@ -60,8 +59,6 @@ def recorrido_por_vista(num_vista,listado_procesos, driver):
 
             sleep(random.uniform(3.0,5.0))
             listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
-            #boton_proceso = listado_procesos[i].find_element(By.XPATH,'.//a[@href="/movimientos"]')
-            #boton_proceso.click()
 
             # Obtengo los detalles del proceso
             # sleep(random.uniform(3.0,5.0))
@@ -79,11 +76,9 @@ def recorrer_vistas(limit, driver):
     num_vista = 1
     sleep(random.uniform(3.0,5.0))
     listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
-    """
-        POSIBLE ERROR:  Aqui se puede estar cortando el ciclo antes de que termine de extraer los detalles de todas las vistas
-                        faltaria la ultima vista
-    """
-    for i in range(limit-1):
+    
+    
+    for i in range(limit):
     # sleep(random.uniform(3.0,5.0))
         listado_procesos = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
         recorrido_por_vista(num_vista, listado_procesos, driver)

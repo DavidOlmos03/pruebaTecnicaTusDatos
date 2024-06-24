@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 import random 
 from time import sleep
 
-# Funciones para PROCESO
+# Funciones para PROCESS
 
 def identify_process(type_process, driver, codigo):
     #   Distinción entre tipo de proceso
