@@ -1,4 +1,4 @@
-from db import col
+from config.db import procesos
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
@@ -25,7 +25,7 @@ def send_process(listado_proceso, codigo):
         accion_infraccion = proceso.find_element('xpath','.//div[@class="accion-infraccion"]').text
         
         #   Se envia la información obtenida a la base de datos
-        col.insert_one({
+        procesos.insert_one({
             'doc_persona': codigo,
             'id':id_proceso,
             'fecha': fecha,

@@ -1,4 +1,4 @@
-from db import actuaciones
+from config.db import actuaciones
 import random 
 from time import sleep
 from selenium.webdriver.common.by import By

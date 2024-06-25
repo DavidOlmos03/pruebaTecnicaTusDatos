@@ -1,7 +1,10 @@
+import os
+import sys
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+
+# Importaciones de selenium
 from selenium import webdriver
-import random 
-from time import sleep
-import multiprocessing
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -9,21 +12,20 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager # pip install webdriver-manager
 from selenium.common.exceptions import TimeoutException, StaleElementReferenceException, NoSuchElementException
-from process import identify_process, obtain_all_process, count_view_process
-from details import recorrer_vistas as  recorrer_vistas_details
-from actuaciones import recorrer_vistas as recorrer_vistas_actuaciones
+
+# Importaciones personalizadas
+from scripts.process import identify_process, obtain_all_process, count_view_process
+from scripts.details import recorrer_vistas as  recorrer_vistas_details
+from scripts.actuaciones import recorrer_vistas as recorrer_vistas_actuaciones
+from config.config import WEB_SITE_URL 
+
+# Otras importaciones necesarias
+import random 
+from time import sleep
+import multiprocessing
 from itertools import zip_longest
 
-# Se establece el tipo de proceso a realizar
-# type_process = [1,2]
-# Código del demandante o demandado
-# Demandante1 = 0968599020001
-# Demandante2 = 0992339411001
-
-# Demandado1 = 1791251237001
-# Demandado2 = 0968599020001
-# codigos_demandante = ['0968599020001','0992339411001']
-# codigos_demandado = ['1791251237001','0968599020001']
+#   Función para verificar la existencia de un elemento, en particular se utilizara para verificar la existencia de ReCaptcha 
 def verify_existence(driver, by, value):
     try:
         driver.find_element(by, value)
@@ -31,13 +33,15 @@ def verify_existence(driver, by, value):
     except NoSuchElementException:
         return False
 
+#   Función para regresar a la vista inicial, se utilizara para retornar a esta página una vez se recorran todas las otras vistas
+#   o conjunto de procesos registrados 
 def return_to_start(driver):
-     #   Se retorna a la vista inicial
-        boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")
-        boton_inicio.click()
+    #   Se retorna a la vista inicial
+    boton_inicio = driver.find_element(By.XPATH,"//button[@aria-label='Primera página']")
+    boton_inicio.click()
 
-        #   Se espera a que la página cargue por completo
-        sleep(random.uniform(8.0,10.0))
+    #   Se espera a que la página cargue por completo
+    sleep(random.uniform(8.0,10.0))
 
 
 def perform_query(codigo,type_process):
@@ -46,7 +50,7 @@ def perform_query(codigo,type_process):
 
     # Conexión con la página web a "scrapear"
     driver = webdriver.Chrome(service = Service(ChromeDriverManager().install()), options=opts)
-    driver.get('https://procesosjudiciales.funcionjudicial.gob.ec/busqueda-filtros')
+    driver.get(WEB_SITE_URL)
 
     try:
         #   Se distingue el tipo de consulta a realizar 
@@ -75,11 +79,11 @@ def perform_query(codigo,type_process):
 
 
         #   Se obtienen todos los procesos y se envian a la base de datos en mongodb
-        #obtain_all_process(limit, driver, codigo)
+        obtain_all_process(limit, driver, codigo)
 
 
         #   Se retorna a la vista inicial
-        #return_to_start(driver)
+        return_to_start(driver)
 
 
         #   Se realiza el recorrido por todas las vistas, se va ingresando a cada uno de los procesos, obteniendo sus detalles 

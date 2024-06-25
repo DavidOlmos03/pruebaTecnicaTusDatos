@@ -4,6 +4,6 @@ from pymongo import MongoClient
 client = MongoClient('localhost')
 db = client['pruebaTusDatos']
 
-col = db['procesos']
+procesos = db['procesos']
 detalles = db['detalles']
 actuaciones = db['actuaciones']

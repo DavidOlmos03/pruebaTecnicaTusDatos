@@ -1,5 +1,5 @@
 
-from db import detalles
+from config.db import detalles
 import random 
 from selenium import webdriver
 from time import sleep
@@ -68,8 +68,8 @@ def recorrido_por_vista(num_vista, listado_procesos_ciclo, driver):
 
             # Obtengo los detalles del proceso
             # sleep(random.uniform(3.0,5.0))
-            print("#3 len(listado_procesos): ",len(listado_procesos), "j: ",j)
-            print("#2 len(listado_procesos): ",len(listado_procesos_ciclo), "j: ",j)
+            # print("#3 len(listado_procesos): ",len(listado_procesos), "j: ",j)
+            # print("#2 len(listado_procesos): ",len(listado_procesos_ciclo), "j: ",j)
             
             if j < len(listado_procesos):
                 obtencion_detalle(listado_procesos[j], driver)
@@ -95,11 +95,11 @@ def recorrer_vistas(limit, driver):
     # sleep(random.uniform(3.0,5.0))
             
         listado_procesos_ciclo = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class = 'causa-individual ng-star-inserted']")))
-        print("#1 len(listado_procesos): ",len(listado_procesos))
+        #print("#1 len(listado_procesos): ",len(listado_procesos))
         #if i == len(limit)-1:
             # ir hasta la ultima vista, antes de pasar el listado_procesos a la función
             # dado que esta vista puede tener menos iteraciones que la vista en la que esta
             
         recorrido_por_vista(num_vista, listado_procesos_ciclo, driver)
-        print("#vista: ",num_vista)
+        #print("#vista: ",num_vista)
         num_vista += 1
