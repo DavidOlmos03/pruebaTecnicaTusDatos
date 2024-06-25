@@ -75,11 +75,11 @@ def perform_query(codigo,type_process):
 
 
         #   Se obtienen todos los procesos y se envian a la base de datos en mongodb
-        obtain_all_process(limit, driver, codigo)
+        #obtain_all_process(limit, driver, codigo)
 
 
         #   Se retorna a la vista inicial
-        return_to_start(driver)
+        #return_to_start(driver)
 
 
         #   Se realiza el recorrido por todas las vistas, se va ingresando a cada uno de los procesos, obteniendo sus detalles 
@@ -106,8 +106,8 @@ def perform_query(codigo,type_process):
 
 if __name__ == '__main__':
     multiprocessing.freeze_support()
-    codigos_demandante = ['0968599020001','0992339411001','0992339411001','0992339411001','0968599020001','0968599020001','0968599020001']
-    codigos_demandado = ['1791251237001','0968599020001','1791251237001','0968599020001','1791251237001','0968599020001','1791251237001','0968599020001']
+    codigos_demandante = ['0992339411001']
+    codigos_demandado = ['1791251237001']
     # Crear los procesos en paralelo
     processes = []
     for codigo_demandante,codigo_demandado in zip_longest(codigos_demandante, codigos_demandado, fillvalue=None):
